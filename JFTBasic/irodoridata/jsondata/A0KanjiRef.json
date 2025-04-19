@@ -1,0 +1,2072 @@
+{
+    "3": [
+      {
+        "id": 1,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_1",
+        "ja": "sid_KanjilistReferenceNotation_1",
+        "kana": "sid_KanjilistReferenceKana_1",
+        "audio": "a1_namae.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_1",
+            "ja": "sid_KanjilistReferenceExample_1"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_1",
+            "kanji": "sid_KanjilistReferenceSingleKanji_1",
+            "video": "a1_001_mei.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_2",
+            "kanji": "sid_KanjilistReferenceSingleKanji_2",
+            "video": "a1_002_mae.mp4"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_2",
+        "ja": "sid_KanjilistReferenceNotation_2",
+        "kana": "sid_KanjilistReferenceKana_2",
+        "audio": "a1_kuni.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_2",
+            "ja": "sid_KanjilistReferenceExample_2"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_3",
+            "kanji": "sid_KanjilistReferenceSingleKanji_3",
+            "video": "a1_003_kuni.mp4"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_3",
+        "ja": "sid_KanjilistReferenceNotation_3",
+        "kana": "sid_KanjilistReferenceKana_3",
+        "audio": "a1_watashi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_3",
+            "ja": "sid_KanjilistReferenceExample_3"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_4",
+            "kanji": "sid_KanjilistReferenceSingleKanji_4",
+            "video": "a1_004_shi.mp4"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "id": 4,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_4",
+        "ja": "sid_KanjilistReferenceNotation_4",
+        "kana": "sid_KanjilistReferenceKana_4",
+        "audio": "a1_chichi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_4",
+            "ja": "sid_KanjilistReferenceExample_4"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_5",
+            "kanji": "sid_KanjilistReferenceSingleKanji_5",
+            "video": "a1_005_fu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_5",
+        "ja": "sid_KanjilistReferenceNotation_5",
+        "kana": "sid_KanjilistReferenceKana_5",
+        "audio": "a1_haha.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_5",
+            "ja": "sid_KanjilistReferenceExample_5"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_6",
+            "kanji": "sid_KanjilistReferenceSingleKanji_6",
+            "video": "a1_006_bo.mp4"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_6",
+        "ja": "sid_KanjilistReferenceNotation_6",
+        "kana": "sid_KanjilistReferenceKana_6",
+        "audio": "a1_kodomo.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_6",
+            "ja": "sid_KanjilistReferenceExample_6"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_7",
+            "kanji": "sid_KanjilistReferenceSingleKanji_7",
+            "video": "a1_007_ko.mp4"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_7",
+        "ja": "sid_KanjilistReferenceNotation_7",
+        "kana": "sid_KanjilistReferenceKana_7",
+        "audio": "a1_nihon.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_7",
+            "ja": "sid_KanjilistReferenceExample_7"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_8",
+            "kanji": "sid_KanjilistReferenceSingleKanji_8",
+            "video": "a1_008_nichi.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_9",
+            "kanji": "sid_KanjilistReferenceSingleKanji_9",
+            "video": "a1_009_hon.mp4"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "id": 8,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_8",
+        "ja": "sid_KanjilistReferenceNotation_8",
+        "kana": "sid_KanjilistReferenceKana_8",
+        "audio": "a1_mizu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_8",
+            "ja": "sid_KanjilistReferenceExample_8"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_10",
+            "kanji": "sid_KanjilistReferenceSingleKanji_10",
+            "video": "a1_010_sui.mp4"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_9",
+        "ja": "sid_KanjilistReferenceNotation_9",
+        "kana": "sid_KanjilistReferenceKana_9",
+        "audio": "a1_tabemasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_9",
+            "ja": "sid_KanjilistReferenceExample_9"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_11",
+            "kanji": "sid_KanjilistReferenceSingleKanji_11",
+            "video": "a1_011_syoku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_10",
+        "ja": "sid_KanjilistReferenceNotation_10",
+        "kana": "sid_KanjilistReferenceKana_10",
+        "audio": "a1_nomimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_10",
+            "ja": "sid_KanjilistReferenceExample_10"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_12",
+            "kanji": "sid_KanjilistReferenceSingleKanji_12",
+            "video": "a1_012_in.mp4"
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "id": 11,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_11",
+        "ja": "sid_KanjilistReferenceNotation_11",
+        "kana": "sid_KanjilistReferenceKana_11",
+        "audio": "a1_sakana.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_11",
+            "ja": "sid_KanjilistReferenceExample_11"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_13",
+            "kanji": "sid_KanjilistReferenceSingleKanji_13",
+            "video": "a1_013_gyo.mp4"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_12",
+        "ja": "sid_KanjilistReferenceNotation_12",
+        "kana": "sid_KanjilistReferenceKana_12",
+        "audio": "a1_niku.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_A1",
+            "ja": "sid_KanjilistReferenceExample_A1"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_14",
+            "kanji": "sid_KanjilistReferenceSingleKanji_14",
+            "video": "a1_014_niku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "part_of_speech": "ナA",
+        "sentence_id": "sid_KanjilistReferenceNotation_13",
+        "ja": "sid_KanjilistReferenceNotation_13",
+        "kana": "sid_KanjilistReferenceKana_13",
+        "audio": "a1_suki_na_.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_12",
+            "ja": "sid_KanjilistReferenceExample_12"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_15",
+            "kanji": "sid_KanjilistReferenceSingleKanji_15",
+            "video": "a1_015_kou.mp4"
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "id": 14,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_14",
+        "ja": "sid_KanjilistReferenceNotation_14",
+        "kana": "sid_KanjilistReferenceKana_14",
+        "audio": "a1_ie_house_.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_13",
+            "ja": "sid_KanjilistReferenceExample_13"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_16",
+            "kanji": "sid_KanjilistReferenceSingleKanji_16",
+            "video": "a1_016_ie.mp4"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_15",
+        "ja": "sid_KanjilistReferenceNotation_15",
+        "kana": "sid_KanjilistReferenceKana_15",
+        "audio": "a1_atarashii.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_14",
+            "ja": "sid_KanjilistReferenceExample_14"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_17",
+            "kanji": "sid_KanjilistReferenceSingleKanji_17",
+            "video": "a1_017_shin.mp4"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_16",
+        "ja": "sid_KanjilistReferenceNotation_16",
+        "kana": "sid_KanjilistReferenceKana_16",
+        "audio": "a1_hiroi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_15",
+            "ja": "sid_KanjilistReferenceExample_15"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_18",
+            "kanji": "sid_KanjilistReferenceSingleKanji_18",
+            "video": "a1_018_kou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_17",
+        "ja": "sid_KanjilistReferenceNotation_17",
+        "kana": "sid_KanjilistReferenceKana_17",
+        "audio": "a1_furui.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_16",
+            "ja": "sid_KanjilistReferenceExample_16"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_19",
+            "kanji": "sid_KanjilistReferenceSingleKanji_19",
+            "video": "a1_019_ko.mp4"
+          }
+        ]
+      }
+    ],
+    "8": [
+      {
+        "id": 18,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_18",
+        "ja": "sid_KanjilistReferenceNotation_18",
+        "kana": "sid_KanjilistReferenceKana_18",
+        "audio": "a1_ue.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_17",
+            "ja": "sid_KanjilistReferenceExample_17"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_20",
+            "kanji": "sid_KanjilistReferenceSingleKanji_20",
+            "video": "a1_020_ue.mp4"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_19",
+        "ja": "sid_KanjilistReferenceNotation_19",
+        "kana": "sid_KanjilistReferenceKana_19",
+        "audio": "a1_shita.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_18",
+            "ja": "sid_KanjilistReferenceExample_18"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_21",
+            "kanji": "sid_KanjilistReferenceSingleKanji_21",
+            "video": "a1_021_ge.mp4"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_20",
+        "ja": "sid_KanjilistReferenceNotation_20",
+        "kana": "sid_KanjilistReferenceKana_20",
+        "audio": "a1_naka.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_19",
+            "ja": "sid_KanjilistReferenceExample_19"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_22",
+            "kanji": "sid_KanjilistReferenceSingleKanji_22",
+            "video": "a1_022_chuu.mp4"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "id": 21,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_21",
+        "ja": "sid_KanjilistReferenceNotation_21",
+        "kana": "sid_KanjilistReferenceKana_21",
+        "audio": "a1_getsu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_20",
+            "ja": "sid_KanjilistReferenceExample_20"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_23",
+            "kanji": "sid_KanjilistReferenceSingleKanji_23",
+            "video": "a1_023_getsu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_22",
+        "ja": "sid_KanjilistReferenceNotation_22",
+        "kana": "sid_KanjilistReferenceKana_22",
+        "audio": "a1_ka_tuesday_.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_21",
+            "ja": "sid_KanjilistReferenceExample_21"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_24",
+            "kanji": "sid_KanjilistReferenceSingleKanji_24",
+            "video": "a1_024_ka.mp4"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_23",
+        "ja": "sid_KanjilistReferenceNotation_23",
+        "kana": "sid_KanjilistReferenceKana_23",
+        "audio": "a1_sui.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_22",
+            "ja": "sid_KanjilistReferenceExample_22"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_25",
+            "kanji": "sid_KanjilistReferenceSingleKanji_25",
+            "video": "a1_010_sui.mp4"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_24",
+        "ja": "sid_KanjilistReferenceNotation_24",
+        "kana": "sid_KanjilistReferenceKana_24",
+        "audio": "a1_moku.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_23",
+            "ja": "sid_KanjilistReferenceExample_23"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_26",
+            "kanji": "sid_KanjilistReferenceSingleKanji_26",
+            "video": "a1_025_moku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_25",
+        "ja": "sid_KanjilistReferenceNotation_25",
+        "kana": "sid_KanjilistReferenceKana_25",
+        "audio": "a1_kin.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_24",
+            "ja": "sid_KanjilistReferenceExample_24"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_27",
+            "kanji": "sid_KanjilistReferenceSingleKanji_27",
+            "video": "a1_026_kin.mp4"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_26",
+        "ja": "sid_KanjilistReferenceNotation_26",
+        "kana": "sid_KanjilistReferenceKana_26",
+        "audio": "a1_do.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_25",
+            "ja": "sid_KanjilistReferenceExample_25"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_28",
+            "kanji": "sid_KanjilistReferenceSingleKanji_28",
+            "video": "a1_027_do.mp4"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_27",
+        "ja": "sid_KanjilistReferenceNotation_27",
+        "kana": "sid_KanjilistReferenceKana_27",
+        "audio": "a1_-nichi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_26",
+            "ja": "sid_KanjilistReferenceExample_26"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_29",
+            "kanji": "sid_KanjilistReferenceSingleKanji_29",
+            "video": "a1_008_nichi.mp4"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_28",
+        "ja": "sid_KanjilistReferenceNotation_28",
+        "kana": "sid_KanjilistReferenceKana_28",
+        "audio": "a1_-yoobi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_27",
+            "ja": "sid_KanjilistReferenceExample_27"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_30",
+            "kanji": "sid_KanjilistReferenceSingleKanji_30",
+            "video": "a1_028_you.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_31",
+            "kanji": "sid_KanjilistReferenceSingleKanji_31",
+            "video": "a1_008_nichi.mp4"
+          }
+        ]
+      }
+    ],
+    "10": [
+      {
+        "id": 29,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_29",
+        "ja": "sid_KanjilistReferenceNotation_29",
+        "kana": "sid_KanjilistReferenceKana_29",
+        "audio": "a1_asa.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_28",
+            "ja": "sid_KanjilistReferenceExample_28"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_32",
+            "kanji": "sid_KanjilistReferenceSingleKanji_32",
+            "video": "a1_029_asa.mp4"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_30",
+        "ja": "sid_KanjilistReferenceNotation_30",
+        "kana": "sid_KanjilistReferenceKana_30",
+        "audio": "a1_hiru.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_29",
+            "ja": "sid_KanjilistReferenceExample_29"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_33",
+            "kanji": "sid_KanjilistReferenceSingleKanji_33",
+            "video": "a1_030_hiru.mp4"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_31",
+        "ja": "sid_KanjilistReferenceNotation_31",
+        "kana": "sid_KanjilistReferenceKana_31",
+        "audio": "a1_yoru.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_30",
+            "ja": "sid_KanjilistReferenceExample_30"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_34",
+            "kanji": "sid_KanjilistReferenceSingleKanji_34",
+            "video": "a1_031_yoru.mp4"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_32",
+        "ja": "sid_KanjilistReferenceNotation_32",
+        "kana": "sid_KanjilistReferenceKana_32",
+        "audio": "a1_-ji.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_31",
+            "ja": "sid_KanjilistReferenceExample_31"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_35",
+            "kanji": "sid_KanjilistReferenceSingleKanji_35",
+            "video": "a1_032_ji.mp4"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_33",
+        "ja": "sid_KanjilistReferenceNotation_33",
+        "kana": "sid_KanjilistReferenceKana_33",
+        "audio": "a1_-fun.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_32",
+            "ja": "sid_KanjilistReferenceExample_32"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_36",
+            "kanji": "sid_KanjilistReferenceSingleKanji_36",
+            "video": "a1_033_hun.mp4"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_34",
+        "ja": "sid_KanjilistReferenceNotation_34",
+        "kana": "sid_KanjilistReferenceKana_34",
+        "audio": "a1_han.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_33",
+            "ja": "sid_KanjilistReferenceExample_33"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_37",
+            "kanji": "sid_KanjilistReferenceSingleKanji_37",
+            "video": "a1_034_han.mp4"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_35",
+        "ja": "sid_KanjilistReferenceNotation_35",
+        "kana": "sid_KanjilistReferenceKana_35",
+        "audio": "a1_-mai.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_34",
+            "ja": "sid_KanjilistReferenceExample_34"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_38",
+            "kanji": "sid_KanjilistReferenceSingleKanji_38",
+            "video": "a1_035_mai.mp4"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "id": 36,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_36",
+        "ja": "sid_KanjilistReferenceNotation_36",
+        "kana": "sid_KanjilistReferenceKana_36",
+        "audio": "a1_yomimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_35",
+            "ja": "sid_KanjilistReferenceExample_35"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_39",
+            "kanji": "sid_KanjilistReferenceSingleKanji_39",
+            "video": "a1_036_doku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_37",
+        "ja": "sid_KanjilistReferenceNotation_37",
+        "kana": "sid_KanjilistReferenceKana_37",
+        "audio": "a1_kikimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_36",
+            "ja": "sid_KanjilistReferenceExample_36"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_40",
+            "kanji": "sid_KanjilistReferenceSingleKanji_40",
+            "video": "a1_037_bun.mp4"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_38",
+        "ja": "sid_KanjilistReferenceNotation_38",
+        "kana": "sid_KanjilistReferenceKana_38",
+        "audio": "a1_mimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_37",
+            "ja": "sid_KanjilistReferenceExample_37"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_41",
+            "kanji": "sid_KanjilistReferenceSingleKanji_41",
+            "video": "a1_038_ken.mp4"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_39",
+        "ja": "sid_KanjilistReferenceNotation_39",
+        "kana": "sid_KanjilistReferenceKana_39",
+        "audio": "a1_hon.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_38",
+            "ja": "sid_KanjilistReferenceExample_38"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_42",
+            "kanji": "sid_KanjilistReferenceSingleKanji_42",
+            "video": "a1_009_hon.mp4"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_40",
+        "ja": "sid_KanjilistReferenceNotation_40",
+        "kana": "sid_KanjilistReferenceKana_40",
+        "audio": "a1_tomodachi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_39",
+            "ja": "sid_KanjilistReferenceExample_39"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_43",
+            "kanji": "sid_KanjilistReferenceSingleKanji_43",
+            "video": "a1_039_tomo.mp4"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_41",
+        "ja": "sid_KanjilistReferenceNotation_41",
+        "kana": "sid_KanjilistReferenceKana_41",
+        "audio": "a1_nani.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_40",
+            "ja": "sid_KanjilistReferenceExample_40"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_44",
+            "kanji": "sid_KanjilistReferenceSingleKanji_44",
+            "video": "a1_040_nani.mp4"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": 42,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_42",
+        "ja": "sid_KanjilistReferenceNotation_42",
+        "kana": "sid_KanjilistReferenceKana_42",
+        "audio": "a1_-nen.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_41",
+            "ja": "sid_KanjilistReferenceExample_41"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_45",
+            "kanji": "sid_KanjilistReferenceSingleKanji_45",
+            "video": "a1_041_nen.mp4"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_43",
+        "ja": "sid_KanjilistReferenceNotation_43",
+        "kana": "sid_KanjilistReferenceKana_43",
+        "audio": "a1_-gatsu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_42",
+            "ja": "sid_KanjilistReferenceExample_42"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_46",
+            "kanji": "sid_KanjilistReferenceSingleKanji_46",
+            "video": "a1_023_getsu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_44",
+        "ja": "sid_KanjilistReferenceNotation_44",
+        "kana": "sid_KanjilistReferenceKana_44",
+        "audio": "a1_-nichi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_43",
+            "ja": "sid_KanjilistReferenceExample_43"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_47",
+            "kanji": "sid_KanjilistReferenceSingleKanji_47",
+            "video": "a1_008_nichi.mp4"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_45",
+        "ja": "sid_KanjilistReferenceNotation_45",
+        "kana": "sid_KanjilistReferenceKana_45",
+        "audio": "a1_kyoo.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_44",
+            "ja": "sid_KanjilistReferenceExample_44"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_48",
+            "kanji": "sid_KanjilistReferenceSingleKanji_48",
+            "video": "a1_042_ima.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_49",
+            "kanji": "sid_KanjilistReferenceSingleKanji_49",
+            "video": "a1_008_nichi.mp4"
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_46",
+        "ja": "sid_KanjilistReferenceNotation_46",
+        "kana": "sid_KanjilistReferenceKana_46",
+        "audio": "a1_konshuu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_45",
+            "ja": "sid_KanjilistReferenceExample_45"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_50",
+            "kanji": "sid_KanjilistReferenceSingleKanji_50",
+            "video": "a1_042_ima.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_51",
+            "kanji": "sid_KanjilistReferenceSingleKanji_51",
+            "video": "a1_043_syuu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_47",
+        "ja": "sid_KanjilistReferenceNotation_47",
+        "kana": "sid_KanjilistReferenceKana_47",
+        "audio": "a1_kondo.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_46",
+            "ja": "sid_KanjilistReferenceExample_46"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_52",
+            "kanji": "sid_KanjilistReferenceSingleKanji_52",
+            "video": "a1_042_ima.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_53",
+            "kanji": "sid_KanjilistReferenceSingleKanji_53",
+            "video": "a1_044_do.mp4"
+          }
+        ]
+      }
+    ],
+    "13": [
+      {
+        "id": 48,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_48",
+        "ja": "sid_KanjilistReferenceNotation_48",
+        "kana": "sid_KanjilistReferenceKana_48",
+        "audio": "a1_higashi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_47",
+            "ja": "sid_KanjilistReferenceExample_47"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_54",
+            "kanji": "sid_KanjilistReferenceSingleKanji_54",
+            "video": "a1_045_tou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_49",
+        "ja": "sid_KanjilistReferenceNotation_49",
+        "kana": "sid_KanjilistReferenceKana_49",
+        "audio": "a1_nishi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_48",
+            "ja": "sid_KanjilistReferenceExample_48"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_55",
+            "kanji": "sid_KanjilistReferenceSingleKanji_55",
+            "video": "a1_046_sei.mp4"
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_50",
+        "ja": "sid_KanjilistReferenceNotation_50",
+        "kana": "sid_KanjilistReferenceKana_50",
+        "audio": "a1_minami.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_49",
+            "ja": "sid_KanjilistReferenceExample_49"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_56",
+            "kanji": "sid_KanjilistReferenceSingleKanji_56",
+            "video": "a1_047_nan.mp4"
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_51",
+        "ja": "sid_KanjilistReferenceNotation_51",
+        "kana": "sid_KanjilistReferenceKana_51",
+        "audio": "a1_kita.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_50",
+            "ja": "sid_KanjilistReferenceExample_50"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_57",
+            "kanji": "sid_KanjilistReferenceSingleKanji_57",
+            "video": "a1_048_hoku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_52",
+        "ja": "sid_KanjilistReferenceNotation_52",
+        "kana": "sid_KanjilistReferenceKana_52",
+        "audio": "a1_kaisha.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_51",
+            "ja": "sid_KanjilistReferenceExample_51"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_58",
+            "kanji": "sid_KanjilistReferenceSingleKanji_58",
+            "video": "a1_049_kai.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_59",
+            "kanji": "sid_KanjilistReferenceSingleKanji_59",
+            "video": "a1_050_sya.mp4"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_53",
+        "ja": "sid_KanjilistReferenceNotation_53",
+        "kana": "sid_KanjilistReferenceKana_53",
+        "audio": "a1_kimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_52",
+            "ja": "sid_KanjilistReferenceExample_52"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_60",
+            "kanji": "sid_KanjilistReferenceSingleKanji_60",
+            "video": "a1_051_rai.mp4"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_54",
+        "ja": "sid_KanjilistReferenceNotation_54",
+        "kana": "sid_KanjilistReferenceKana_54",
+        "audio": "a1_ikimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_53",
+            "ja": "sid_KanjilistReferenceExample_53"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_61",
+            "kanji": "sid_KanjilistReferenceSingleKanji_61",
+            "video": "a1_052_kou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_55",
+        "ja": "sid_KanjilistReferenceNotation_55",
+        "kana": "sid_KanjilistReferenceKana_55",
+        "audio": "a1_norimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_54",
+            "ja": "sid_KanjilistReferenceExample_54"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_62",
+            "kanji": "sid_KanjilistReferenceSingleKanji_62",
+            "video": "a1_053_jyou.mp4"
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": 56,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_56",
+        "ja": "sid_KanjilistReferenceNotation_56",
+        "kana": "sid_KanjilistReferenceKana_56",
+        "audio": "a1_ookii.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_55",
+            "ja": "sid_KanjilistReferenceExample_55"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_63",
+            "kanji": "sid_KanjilistReferenceSingleKanji_63",
+            "video": "a1_054_dai.mp4"
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_57",
+        "ja": "sid_KanjilistReferenceNotation_57",
+        "kana": "sid_KanjilistReferenceKana_57",
+        "audio": "a1_chiisai.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_56",
+            "ja": "sid_KanjilistReferenceExample_56"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_64",
+            "kanji": "sid_KanjilistReferenceSingleKanji_64",
+            "video": "a1_055_syou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_58",
+        "ja": "sid_KanjilistReferenceNotation_58",
+        "kana": "sid_KanjilistReferenceKana_58",
+        "audio": "a1_takai_high_.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_57",
+            "ja": "sid_KanjilistReferenceExample_57"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_65",
+            "kanji": "sid_KanjilistReferenceSingleKanji_65",
+            "video": "a1_056_kou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_59",
+        "ja": "sid_KanjilistReferenceNotation_59",
+        "kana": "sid_KanjilistReferenceKana_59",
+        "audio": "a1_hikui.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_58",
+            "ja": "sid_KanjilistReferenceExample_58"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_66",
+            "kanji": "sid_KanjilistReferenceSingleKanji_66",
+            "video": "a1_057_tei.mp4"
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_60",
+        "ja": "sid_KanjilistReferenceNotation_60",
+        "kana": "sid_KanjilistReferenceKana_60",
+        "audio": "a1_mae.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_59",
+            "ja": "sid_KanjilistReferenceExample_59"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_67",
+            "kanji": "sid_KanjilistReferenceSingleKanji_67",
+            "video": "a1_002_mae.mp4"
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_61",
+        "ja": "sid_KanjilistReferenceNotation_61",
+        "kana": "sid_KanjilistReferenceKana_61",
+        "audio": "a1_ushiro.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_60",
+            "ja": "sid_KanjilistReferenceExample_60"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_68",
+            "kanji": "sid_KanjilistReferenceSingleKanji_68",
+            "video": "a1_058_kou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_62",
+        "ja": "sid_KanjilistReferenceNotation_62",
+        "kana": "sid_KanjilistReferenceKana_62",
+        "audio": "a1_yoko.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_61",
+            "ja": "sid_KanjilistReferenceExample_61"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_69",
+            "kanji": "sid_KanjilistReferenceSingleKanji_69",
+            "video": "a1_059_ou.mp4"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": 63,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_63",
+        "ja": "sid_KanjilistReferenceNotation_63",
+        "kana": "sid_KanjilistReferenceKana_63",
+        "audio": "a1_iriguchi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_62",
+            "ja": "sid_KanjilistReferenceExample_62"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_70",
+            "kanji": "sid_KanjilistReferenceSingleKanji_70",
+            "video": "a1_060_nyuu.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_71",
+            "kanji": "sid_KanjilistReferenceSingleKanji_71",
+            "video": "a1_061_kou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_64",
+        "ja": "sid_KanjilistReferenceNotation_64",
+        "kana": "sid_KanjilistReferenceKana_64",
+        "audio": "a1_deguchi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_63",
+            "ja": "sid_KanjilistReferenceExample_63"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_72",
+            "kanji": "sid_KanjilistReferenceSingleKanji_72",
+            "video": "a1_062_syutsu.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_73",
+            "kanji": "sid_KanjilistReferenceSingleKanji_73",
+            "video": "a1_061_kou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_65",
+        "ja": "sid_KanjilistReferenceNotation_65",
+        "kana": "sid_KanjilistReferenceKana_65",
+        "audio": "a1_-kai.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_A3",
+            "ja": "sid_KanjilistReferenceExample_A3"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_74",
+            "kanji": "sid_KanjilistReferenceSingleKanji_74",
+            "video": "a1_063_kai.mp4"
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_66",
+        "ja": "sid_KanjilistReferenceNotation_66",
+        "kana": "sid_KanjilistReferenceKana_66",
+        "audio": "a1_osu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_64",
+            "ja": "sid_KanjilistReferenceExample_64"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_75",
+            "kanji": "sid_KanjilistReferenceSingleKanji_75",
+            "video": "a1_064_osu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_67",
+        "ja": "sid_KanjilistReferenceNotation_67",
+        "kana": "sid_KanjilistReferenceKana_67",
+        "audio": "a1_hiku.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_65",
+            "ja": "sid_KanjilistReferenceExample_65"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_76",
+            "kanji": "sid_KanjilistReferenceSingleKanji_76",
+            "video": "a1_065_hiku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "part_of_speech": "イA",
+        "sentence_id": "sid_KanjilistReferenceNotation_68",
+        "ja": "sid_KanjilistReferenceNotation_68",
+        "kana": "sid_KanjilistReferenceKana_68",
+        "audio": "a1_yasui.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_66",
+            "ja": "sid_KanjilistReferenceExample_66"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_77",
+            "kanji": "sid_KanjilistReferenceSingleKanji_77",
+            "video": "a1_066_an.mp4"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": 69,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_69",
+        "ja": "sid_KanjilistReferenceNotation_69",
+        "kana": "sid_KanjilistReferenceKana_69",
+        "audio": "a1_ichi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_67",
+            "ja": "sid_KanjilistReferenceExample_67"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_78",
+            "kanji": "sid_KanjilistReferenceSingleKanji_78",
+            "video": "a1_067_ichi.mp4"
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_70",
+        "ja": "sid_KanjilistReferenceNotation_70",
+        "kana": "sid_KanjilistReferenceKana_70",
+        "audio": "a1_ni.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_68",
+            "ja": "sid_KanjilistReferenceExample_68"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_79",
+            "kanji": "sid_KanjilistReferenceSingleKanji_79",
+            "video": "a1_068_ni.mp4"
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_71",
+        "ja": "sid_KanjilistReferenceNotation_71",
+        "kana": "sid_KanjilistReferenceKana_71",
+        "audio": "a1_san.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_69",
+            "ja": "sid_KanjilistReferenceExample_69"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_80",
+            "kanji": "sid_KanjilistReferenceSingleKanji_80",
+            "video": "a1_069_san.mp4"
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_72",
+        "ja": "sid_KanjilistReferenceNotation_72",
+        "kana": "sid_KanjilistReferenceKana_72",
+        "audio": "a1_yon.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_70",
+            "ja": "sid_KanjilistReferenceExample_70"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_81",
+            "kanji": "sid_KanjilistReferenceSingleKanji_81",
+            "video": "a1_070_yon.mp4"
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_73",
+        "ja": "sid_KanjilistReferenceNotation_73",
+        "kana": "sid_KanjilistReferenceKana_73",
+        "audio": "a1_go.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_71",
+            "ja": "sid_KanjilistReferenceExample_71"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_82",
+            "kanji": "sid_KanjilistReferenceSingleKanji_82",
+            "video": "a1_071_go.mp4"
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_74",
+        "ja": "sid_KanjilistReferenceNotation_74",
+        "kana": "sid_KanjilistReferenceKana_74",
+        "audio": "a1_roku.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_72",
+            "ja": "sid_KanjilistReferenceExample_72"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_83",
+            "kanji": "sid_KanjilistReferenceSingleKanji_83",
+            "video": "a1_072_roku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_75",
+        "ja": "sid_KanjilistReferenceNotation_75",
+        "kana": "sid_KanjilistReferenceKana_75",
+        "audio": "a1_nana.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_73",
+            "ja": "sid_KanjilistReferenceExample_73"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_84",
+            "kanji": "sid_KanjilistReferenceSingleKanji_84",
+            "video": "a1_073_nana.mp4"
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_76",
+        "ja": "sid_KanjilistReferenceNotation_76",
+        "kana": "sid_KanjilistReferenceKana_76",
+        "audio": "a1_hachi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_74",
+            "ja": "sid_KanjilistReferenceExample_74"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_85",
+            "kanji": "sid_KanjilistReferenceSingleKanji_85",
+            "video": "a1_074_hachi.mp4"
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_77",
+        "ja": "sid_KanjilistReferenceNotation_77",
+        "kana": "sid_KanjilistReferenceKana_77",
+        "audio": "a1_kyuu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_75",
+            "ja": "sid_KanjilistReferenceExample_75"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_86",
+            "kanji": "sid_KanjilistReferenceSingleKanji_86",
+            "video": "a1_075_kyuu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_78",
+        "ja": "sid_KanjilistReferenceNotation_78",
+        "kana": "sid_KanjilistReferenceKana_78",
+        "audio": "a1_juu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_76",
+            "ja": "sid_KanjilistReferenceExample_76"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_87",
+            "kanji": "sid_KanjilistReferenceSingleKanji_87",
+            "video": "a1_076_jyuu.mp4"
+          }
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": 79,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_79",
+        "ja": "sid_KanjilistReferenceNotation_79",
+        "kana": "sid_KanjilistReferenceKana_79",
+        "audio": "a1_hyaku.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_77",
+            "ja": "sid_KanjilistReferenceExample_77"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_88",
+            "kanji": "sid_KanjilistReferenceSingleKanji_88",
+            "video": "a1_077_hyaku.mp4"
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_80",
+        "ja": "sid_KanjilistReferenceNotation_80",
+        "kana": "sid_KanjilistReferenceKana_80",
+        "audio": "a1_sen.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_78",
+            "ja": "sid_KanjilistReferenceExample_78"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_89",
+            "kanji": "sid_KanjilistReferenceSingleKanji_89",
+            "video": "a1_078_sen.mp4"
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_81",
+        "ja": "sid_KanjilistReferenceNotation_81",
+        "kana": "sid_KanjilistReferenceKana_81",
+        "audio": "a1_man.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_79",
+            "ja": "sid_KanjilistReferenceExample_79"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_90",
+            "kanji": "sid_KanjilistReferenceSingleKanji_90",
+            "video": "a1_079_man.mp4"
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "part_of_speech": null,
+        "sentence_id": "sid_KanjilistReferenceNotation_82",
+        "ja": "sid_KanjilistReferenceNotation_82",
+        "kana": "sid_KanjilistReferenceKana_82",
+        "audio": "a1_-en.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_80",
+            "ja": "sid_KanjilistReferenceExample_80"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_91",
+            "kanji": "sid_KanjilistReferenceSingleKanji_91",
+            "video": "a1_080_en.mp4"
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_83",
+        "ja": "sid_KanjilistReferenceNotation_83",
+        "kana": "sid_KanjilistReferenceKana_83",
+        "audio": "a1_yasumi.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_81",
+            "ja": "sid_KanjilistReferenceExample_81"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_92",
+            "kanji": "sid_KanjilistReferenceSingleKanji_92",
+            "video": "a1_081_kyuu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_84",
+        "ja": "sid_KanjilistReferenceNotation_84",
+        "kana": "sid_KanjilistReferenceKana_84",
+        "audio": "a1_eega.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_82",
+            "ja": "sid_KanjilistReferenceExample_82"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_93",
+            "kanji": "sid_KanjilistReferenceSingleKanji_93",
+            "video": "a1_082_ei.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_94",
+            "kanji": "sid_KanjilistReferenceSingleKanji_94",
+            "video": "a1_083_ga.mp4"
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_85",
+        "ja": "sid_KanjilistReferenceNotation_85",
+        "kana": "sid_KanjilistReferenceKana_85",
+        "audio": "a1_nihongo.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_83",
+            "ja": "sid_KanjilistReferenceExample_83"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_95",
+            "kanji": "sid_KanjilistReferenceSingleKanji_95",
+            "video": "a1_008_nichi.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_96",
+            "kanji": "sid_KanjilistReferenceSingleKanji_96",
+            "video": "a1_009_hon.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_97",
+            "kanji": "sid_KanjilistReferenceSingleKanji_97",
+            "video": "a1_084_go.mp4"
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_86",
+        "ja": "sid_KanjilistReferenceNotation_86",
+        "kana": "sid_KanjilistReferenceKana_86",
+        "audio": "a1_benkyooshimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_84",
+            "ja": "sid_KanjilistReferenceExample_84"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_98",
+            "kanji": "sid_KanjilistReferenceSingleKanji_98",
+            "video": "a1_085_ben.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_99",
+            "kanji": "sid_KanjilistReferenceSingleKanji_99",
+            "video": "a1_086_kyou.mp4"
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_87",
+        "ja": "sid_KanjilistReferenceNotation_87",
+        "kana": "sid_KanjilistReferenceKana_87",
+        "audio": "a1_kaimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_85",
+            "ja": "sid_KanjilistReferenceExample_85"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_100",
+            "kanji": "sid_KanjilistReferenceSingleKanji_100",
+            "video": "a1_087_bai.mp4"
+          }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": 88,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_88",
+        "ja": "sid_KanjilistReferenceNotation_88",
+        "kana": "sid_KanjilistReferenceKana_88",
+        "audio": "a1_onsen.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_86",
+            "ja": "sid_KanjilistReferenceExample_86"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_101",
+            "kanji": "sid_KanjilistReferenceSingleKanji_101",
+            "video": "a1_088_on.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_102",
+            "kanji": "sid_KanjilistReferenceSingleKanji_102",
+            "video": "a1_089_sen.mp4"
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_89",
+        "ja": "sid_KanjilistReferenceNotation_89",
+        "kana": "sid_KanjilistReferenceKana_89",
+        "audio": "a1_yotee.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_87",
+            "ja": "sid_KanjilistReferenceExample_87"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_103",
+            "kanji": "sid_KanjilistReferenceSingleKanji_103",
+            "video": "a1_090_yo.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_104",
+            "kanji": "sid_KanjilistReferenceSingleKanji_104",
+            "video": "a1_091_tei.mp4"
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "part_of_speech": "N",
+        "sentence_id": "sid_KanjilistReferenceNotation_90",
+        "ja": "sid_KanjilistReferenceNotation_90",
+        "kana": "sid_KanjilistReferenceKana_90",
+        "audio": "a1_raishuu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_88",
+            "ja": "sid_KanjilistReferenceExample_88"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_105",
+            "kanji": "sid_KanjilistReferenceSingleKanji_105",
+            "video": "a1_051_rai.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_106",
+            "kanji": "sid_KanjilistReferenceSingleKanji_106",
+            "video": "a1_043_syuu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_91",
+        "ja": "sid_KanjilistReferenceNotation_91",
+        "kana": "sid_KanjilistReferenceKana_91",
+        "audio": "a1_aimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_89",
+            "ja": "sid_KanjilistReferenceExample_89"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_107",
+            "kanji": "sid_KanjilistReferenceSingleKanji_107",
+            "video": "a1_049_kai.mp4"
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_92",
+        "ja": "sid_KanjilistReferenceNotation_92",
+        "kana": "sid_KanjilistReferenceKana_92",
+        "audio": "a1_hairimasu_to enter_.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_90",
+            "ja": "sid_KanjilistReferenceExample_90"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_108",
+            "kanji": "sid_KanjilistReferenceSingleKanji_108",
+            "video": "a1_060_nyuu.mp4"
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "part_of_speech": "V",
+        "sentence_id": "sid_KanjilistReferenceNotation_93",
+        "ja": "sid_KanjilistReferenceNotation_93",
+        "kana": "sid_KanjilistReferenceKana_93",
+        "audio": "a1_ryokooshimasu.mp3",
+        "examples": [
+          {
+            "sentence_id": "sid_KanjilistReferenceExample_91",
+            "ja": "sid_KanjilistReferenceExample_91"
+          }
+        ],
+        "kanji": [
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_109",
+            "kanji": "sid_KanjilistReferenceSingleKanji_109",
+            "video": "a1_092_ryo.mp4"
+          },
+          {
+            "sentence_id": "sid_KanjilistReferenceSingleKanji_110",
+            "kanji": "sid_KanjilistReferenceSingleKanji_110",
+            "video": "a1_052_kou.mp4"
+          }
+        ]
+      }
+    ]
+  }

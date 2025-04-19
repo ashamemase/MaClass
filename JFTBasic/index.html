@@ -1,0 +1,304 @@
+<html>
+    <head>
+    <title>JFTBasic-M-ed</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <link href="css/main.css" rel="stylesheet">
+    </head>
+    <body>
+        <svg width="0" height="0" viewBox="0 0 10 10" >
+                  <filter id="goo">
+                        <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+                  </filter>            
+              <clipPath id="rounded-polygon" clipPathUnits="objectBoundingBox" filter="url(#goo)">
+
+                <!-- filter属性を追加 -->
+                <path d="M 0 0.1 a 0.1 0.1 0 0 1 0.1 -0.1 h 0.6 l 0.3 0.5 l -0.3 0.5 h -0.6 a 0.1 0.1 0 0 1 -0.1 -0.1 v -0.8" fill="var(--fill-color)" stroke="var(--stroke-color)" filter="url(#goo)" />
+              </clipPath>
+          </svg>        <!-- container -->
+        <div id="container" style="height: 945px;"> 
+            <!-- Proadmin start -->
+            <div class="proadmin" style="display: none;">
+                <div class="proadmin_header"> <img src="img/proadmin_header.png" onmousedown="return false" onselectstart="return false"> </div>
+                <div class="proadmin_wsNumber"> <img src="img/proadmin_wsNumber.png" onmousedown="return false" onselectstart="return false"> </div>
+                <div class="proadmin_examName"> <img src="img/proadmin_examName.png" onmousedown="return false" onselectstart="return false"> </div>
+                <div id="proadmin_startButton"> <img src="img/exam_start_login.png" onmousedown="return false" onselectstart="return false"> </div>
+            </div>
+            <!-- Proadmin end --> 
+
+            <!-- Confirmation detail -->
+            <div id="confirmation_detail" class="confirmation_detail_not_current" style="display: none;">
+                <div class="confirmation_detail_base">
+                <div id="confirmation_detail_confirm_button"> <a href="#"> <img src="img/confirm_confirm_button_J.png" alt="" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div id="confirmation_detail_cancel_button"> <a href="#open04"> <img src="img/button_cancel_popup_J.png" alt="" onmousedown="return false" onselectstart="return false"> </a> </div>
+                </div>
+            </div>
+            <!-- Confirmation detail end --> 
+            <!-- Introduction -->
+            <div id="intro" class="intro_not_current intro_base" style="height: 945px; display: none;">
+                <div class="exam_header"></div>
+                <div class="exam_footer" style="top: 839px;"></div>
+                <div class="shikenname">試験：プロメトリック認定試験（体験版）</div>
+                <div class="candidatename">受験者名：&nbsp;試験 太郎&nbsp;</div>
+                <!--試験開始画面注意事項　開始-->
+                <div id="intro_area" style="height: 814px;"><div class=" pd20a"><img src="img/Prometric_Logo.gif" alt="" align="right" onmousedown="return false" onselectstart="return false"><h1 class="grn">プロメトリック認定試験（体験版）</h1><br><p class="f15">この試験は <strong>3問</strong>で構成されており、制限時間は <strong>15分</strong>です。 </p><p class="f15">右下の <strong>「開始」</strong>ボタンをクリックして試験を開始してください。 </p><p class="mg50t f15">試験問題に入力方式(短文・長文記述式)が含まれる場合、次の説明をご確認ください。</p><strong class="f15">〈記述式の解答入力について〉</strong><br><p class="f15 mg25t"><u>キーボードの入力切替方法</u></p><p class="f15">「カタカナ・ひらがな/ローマ字」キー</p><ul class="precautions_info"><li>半角英数入力をカタカナ・ひらがな/ローマ字入力に切り替えます。</li><li>「Alt」キーを押しながらこのキーを押すと、ローマ字入力/かな入力を切り替えます。</li><li>「Shift」キーを押しながらこのキーを押すと、カタカナ入力/ひらがな入力を切り替えます。</li></ul><p class="f15 mg25t"><u>「半角/全角」キー</u></p><ul class="precautions_info"><li>このキーを押すごとに、半角英数入力/全角入力を切り替えます。全角入力にすると日本語が入力できます。</li></ul><p class="f15 mg25t"><u>入力モード説明</u></p><ul class="precautions_info"><li>ローマ字入力：「A」キーを押すと「あ」が入力されます。</li><li>カタカナ入力：「A」キーを押すと「チ」または「ア」が入力されます。</li><li>ひらがな入力：「A」キーを押すと「ち」が入力されます。</li><li>半角英数入力：「A」キーを押すと「A」または「a」が入力されます。</li></ul><p class="f15 mg25t"><u>解答文字数のカウントについて</u></p><ul class="precautions_info"><li>「スペース」は、1文字としてカウントされます。(「Enter/改行」はカウントしません。)</li><li>解答文字数の上限が制限されている場合、上限に達した際はメッセージが表示されます。</li></ul><img src="/trial/tutorial/sp/img/keyboard_instruction.png" alt="keyboard_instruction" width="780px" onmousedown="return false" onselectstart="return false"><p class="f18 mg50t"> <span class="red"> <strong>注意事項</strong> </span> </p><ul class="precautions_caution"><li>本体験版の動作中は、ブラウザの「戻る」「進む」「更新」ボタンを使用しないでください。</li><li>本体験版はCBTの操作の体験を目的としているため、解答の採点は行われません。 </li><li>本体験版に掲載している問題の形式は、本番試験と必ずしも同一とは限りません。 </li><li>本体験版の画面デザインは、本番試験とは異なる場合があります。あらかじめご了承ください。 </li><li>体験版の一部が表示されない場合は、キーボードの「F11」をクリックし、全画面表示をご利用ください。</li></ul></div></div>
+                <!--試験開始画面注意事項　終了-->
+                <div class="preference_button" style="top: 909px;"> <a href="#open03" id="preference"> <img src="img/preferences_icon.png" alt="" class="preference_button_img" id="preference_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div id="startexam_button" style="top: 907px;"> <a href="#" id="startexam"> <img src="img/button_start_exam_J.png" alt="" class="startexam_button_img" id="startexam_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+            </div>
+            <!-- Introduction end--> 
+
+              <!-- Contents -->
+            <div id="exam" class="exam_base exam_not_current" style="height: 945px; display: block;">
+                <div class="exam_header"></div>
+                <div class="exam_footer" style="top: 839px;"></div>
+                <div id="finish_button"> <a id="finish"> <img src="img/button_finish_small_on.png" alt="" class="finish_button_img" id="finish_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div id="item_button"> 
+                    <a href="#" id="item01"> 
+                        <img src="img/button_item_01_off_cl.png" id="item_button01" class="itembt current_itembutton" onmousedown="return false" onselectstart="return false"> 
+                    </a> 
+                    <a href="#" id="item02"> 
+                        <div class="polygon" style="clip-path: url(#rounded-polygon);">4</div>
+                    </a> 
+                    <a href="#" id="item03"> 
+                        <img src="img/button_item_03_off.png" id="item_button03" class="itembt" onmousedown="return false" onselectstart="return false"> 
+                    </a> 
+                    <a href="#" id="item04"> 
+                        <img src="img/button_item_04_off.png" id="item_button04" class="itembt" onmousedown="return false" onselectstart="return false"> 
+                    </a> 
+                </div>
+                <div class="shikenname">試験：プロメトリック認定試験（体験版）</div>
+                <div id="timer" class="timer">
+                <p id="default" class="wht mg0t">残り時間：<br>00:14:04</p>
+                </div>
+                <div id="timer_popup" class="timer_popup">
+                <p id="last5_timer">残り時間：<br>00:14:04</p>
+                <p class="last5min">残り時間は5分です。</p>
+                </div>
+                <!--<div id="progress"><img src="img/progress_j_0.png" alt="" id="progressbar"/></div>
+            -->
+                <div class="candidatename">受験者名：&nbsp;試験 太郎&nbsp;</div>
+                <div id="item_number">設問：1</div>
+                <div id="section_name">セクション：体験版</div>
+                <div id="exam_area" style="height: 814px;">
+                <div id="exam01" class="current">
+                    <p class="mondai_text">問題1：オリンピックマーク（五輪マーク）に <span class="red">使用されていない色</span>を1つ選んでください。 </p>
+                    <!--<div class="head_no">A</div>-->
+                    <div class="check_item">赤色</div>
+                    <!--<div class="head_no">A</div>-->
+                    <div class="check_item">緑色</div>
+                    <!--<div class="head_no">A</div>-->
+                    <div class="check_item">黒色</div>
+                    <!--<div class="head_no">A</div>-->
+                    <div class="check_item">紫色</div>
+                    <!--<div class="head_no">A</div>-->
+                    <div class="check_item">黄色</div>
+                    <!--<div class="head_no">A</div>-->
+                    <div class="check_item">青色</div>
+                </div>
+                <div id="exam02" class="notcurrent multi">
+                    <p class="mondai_text">問題2：2000年代にサッカーワールドカップが開催された国の国旗をすべて選択してください。</p>
+                    <img src="img/flag.png" width="720" height="95" alt="" onmousedown="return false" onselectstart="return false">
+                    <div class="check_item multi">Aの国旗</div>
+                    <div class="check_item multi">Bの国旗</div>
+                    <div class="check_item multi">Cの国旗</div>
+                    <div class="check_item multi">Dの国旗</div>
+                    <div class="check_item multi">Eの国旗</div>
+                    <div class="check_item multi">Fの国旗</div>
+                </div>
+                <div id="exam03" class="notcurrent">
+                    <p class="mondai_text">問題3：上底が 2.8cm、下底が 3.5cm、高さが 4.2cmの台形の面積を入力してください。電卓が使用可能です。</p>
+                    
+                    <!-- Calc button start -->
+                    <div>
+                    <button id="calc_dialog-link" value="/trial/tutorial/sp/calculator/index.html"></button>
+                    </div>
+                    <!-- Calc button end --> 
+                    <!-- Calc dialog start -->
+                    
+                    <!-- Calc dialog end -->
+                    <textarea id="shortanswer" maxlength="50" aria-label="blank" class="input_number" autocomplete="off" data-contextmenu="true"></textarea>
+                </div>
+                <div id="exam04" class="notcurrent">
+                    <p class="mondai_text">問題4：金星が真夜中に観測できない理由を100文字以内で答えなさい。</p>
+                    <textarea id="essay04" aria-label="blank" class="input_essay" autocomplete="off" data-contextmenu="true"></textarea>
+                    <div class="input_essay_messagearea"><!--<div id="textcounter_exam04">0</div>-->
+                    <div class="reachCountLimit_txt">文字数が上限に達しました</div>
+                    </div>
+                </div>
+                </div>
+                <!--試験中注意事項　開始-->
+                <div id="exam_intro" class="exam_intro_not_current" style="height: 814px;"><div class=" pd20a"><img src="img/Prometric_Logo.gif" alt="" align="right" onmousedown="return false" onselectstart="return false"><h1 class="grn">プロメトリック認定試験（体験版）</h1><br><p class="f15">この試験は <strong>3問</strong>で構成されており、制限時間は <strong>15分</strong>です。 </p><p class="f15">右下の <strong>「開始」</strong>ボタンをクリックして試験を開始してください。 </p><p class="mg50t f15">試験問題に入力方式(短文・長文記述式)が含まれる場合、次の説明をご確認ください。</p><strong class="f15">〈記述式の解答入力について〉</strong><br><p class="f15 mg25t"><u>キーボードの入力切替方法</u></p><p class="f15">「カタカナ・ひらがな/ローマ字」キー</p><ul class="precautions_info"><li>半角英数入力をカタカナ・ひらがな/ローマ字入力に切り替えます。</li><li>「Alt」キーを押しながらこのキーを押すと、ローマ字入力/かな入力を切り替えます。</li><li>「Shift」キーを押しながらこのキーを押すと、カタカナ入力/ひらがな入力を切り替えます。</li></ul><p class="f15 mg25t"><u>「半角/全角」キー</u></p><ul class="precautions_info"><li>このキーを押すごとに、半角英数入力/全角入力を切り替えます。全角入力にすると日本語が入力できます。</li></ul><p class="f15 mg25t"><u>入力モード説明</u></p><ul class="precautions_info"><li>ローマ字入力：「A」キーを押すと「あ」が入力されます。</li><li>カタカナ入力：「A」キーを押すと「チ」または「ア」が入力されます。</li><li>ひらがな入力：「A」キーを押すと「ち」が入力されます。</li><li>半角英数入力：「A」キーを押すと「A」または「a」が入力されます。</li></ul><p class="f15 mg25t"><u>解答文字数のカウントについて</u></p><ul class="precautions_info"><li>「スペース」は、1文字としてカウントされます。(「Enter/改行」はカウントしません。)</li><li>解答文字数の上限が制限されている場合、上限に達した際はメッセージが表示されます。</li></ul><img src="/trial/tutorial/sp/img/keyboard_instruction.png" alt="keyboard_instruction" width="780px" onmousedown="return false" onselectstart="return false"><p class="f18 mg50t"> <span class="red"> <strong>注意事項</strong> </span> </p><ul class="precautions_caution"><li>本体験版の動作中は、ブラウザの「戻る」「進む」「更新」ボタンを使用しないでください。</li><li>本体験版はCBTの操作の体験を目的としているため、解答の採点は行われません。 </li><li>本体験版に掲載している問題の形式は、本番試験と必ずしも同一とは限りません。 </li><li>本体験版の画面デザインは、本番試験とは異なる場合があります。あらかじめご了承ください。 </li><li>体験版の一部が表示されない場合は、キーボードの「F11」をクリックし、全画面表示をご利用ください。</li></ul></div></div>
+                <!--試験中注意事項　終了-->
+                <div class="preference_button" style="top: 909px;"> <a href="#open03" id="preference"> <img src="img/preferences_icon.png" alt="" class="preference_button_img" id="preference_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div id="introduction_button" style="top: 909px;"> <a href="#" id="introduction"> <img src="img/introduction_icon.png" alt="" class="introduction_button_img" id="introduction_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div class="flag_button" style="top: 907px;"> <a href="#" id="flag"> <img src="img/button_Flag_button_short.png" alt="" class="flag_button_img" id="flag_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div class="next_prev" style="top: 907px;"> <a href="#" id="back" class="point_none"> <img src="img/button_back_off.png" alt="" id="back_button_image" onclick="nextprevbt('prev')" onmousedown="return false" onselectstart="return false"> </a> <a href="#" id="next"> <img src="img/button_next_on.png" alt="" id="next_button_image" onclick="nextprevbt('next')" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div id="backtoexam_button" style="top: 907px; display: none;"> <a href="#" id="backtoexam"> <img src="img/button_backto_exam_J.png" alt="" class="backto_exam_button_img" id="backto_exam_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+            </div>
+            <!-- Contents end--> 
+            <!-- Endscreen -->
+            <div id="outro" class="outro_base outro_not_current" style="height: 945px;">
+                <div class="exam_header"></div>
+                <div class="exam_footer" style="top: 839px;"></div>
+                <div id="finish_button_outro"> <a href="#" id="finish_outro"> <img src="img/button_finish_small_on.png" alt="" class="finish_button_img" id="finish_button_img_outro" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <div class="shikenname">試験：プロメトリック認定試験（体験版）</div>
+                <!--<div id="progress"><img src="img/progress_0.png" alt="" id="progressbar_outro"/></div>-->
+                <div class="candidatename">受験者名：&nbsp;試験 太郎&nbsp;</div>
+                <div id="outro_area" style="height: 814px;">
+                <div id="outro01">
+                    <div class=" pd20a">
+                    <p class="endScreen_examInfo_text">お疲れ様でした。この試験を終了します。</p>
+                    <p class="endScreen_examInfo_text">必ず右上の[ 終 了 ]ボタンをクリックして試験を終了し、退出手続きを行ってください。</p>
+                    </div>
+                </div>
+                </div>
+                <div class="preference_button" style="top: 909px;"> <a href="#open03" id="preference"> <img src="img/preferences_icon.png" alt="" class="preference_button_img" id="preference_button_img" onmousedown="return false" onselectstart="return false"> </a> </div>
+            </div>
+            <!-- Endscreen end--> 
+            <!-- Result --> 
+            <!--  <div id="result" class="result_base result_not_current">
+                <div class="result_header"> <span class="result_window_name">試験結果詳細</span> </div>
+                <div class="shikenname_result"></div>
+                <div class="candidatename_result"></div>
+                <div id="examday_result"></div>
+                <div id="result_area">
+                <div id="result01">
+                    <div class=" pd20a">
+                    <p class="f24">結果：合格</p>
+                    <br>
+                    <p class="f18 mg30b">このプロメトリック認定試験（体験版）では、全て「合格」が表示されます。</p>
+                    <a href="tutorial_exam_custom.html" class="css_btn_grey"> <img src="img/icon_reload.png" alt=""/> <strong style="vertical-align:7px;">&nbsp;もう一度体験版を実施する</strong> </a> <a href="tutorial_after.html" class="css_btn_green mg60l"> <img src="img/icon_next.png" alt=""/> <strong style="vertical-align:7px;">&nbsp;試験終了後の流れに進む</strong> </a> </div>
+                </div>
+                </div>
+            </div>--> 
+            <!-- Result end--> 
+            <!-- container end--> 
+        </div>
+        <div id="modal">
+            <div id="open01"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window"> 
+                <!--<img src="img/question_icon.png" alt="" class="mg50t"/>-->
+                <p class="taC fw_bold f16 mg130t">本当に終了しますか？</p>
+                <!-- text有ボタン-->
+                <div class="mg50t"> <a href="#open02"> <img src="img/button_finish_popup.png" onmousedown="return false" onselectstart="return false"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#"> <img src="img/button_cancel_popup_J.png" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <!-- text有ボタン--> 
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open01-->
+            <div id="open01_flag_off"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window"> 
+                <!--<img src="img/question_icon.png" alt="" class="mg50t"/>-->
+                <p class="taC fw_bold f16 mg130t">未解答の設問と後で見直す設定の設問があります。<br>
+                    本当に終了しますか？ </p>
+                <!-- text有ボタン-->
+                <div class="mg50t"> <a href="#open02"> <img src="img/button_finish_popup.png" onmousedown="return false" onselectstart="return false"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#"> <img src="img/button_cancel_popup_J.png" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <!-- text有ボタン--> 
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open01_flag_off-->
+            <div id="open01_off"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window"> 
+                <!--<img src="img/question_icon.png" alt="" class="mg50t"/>-->
+                <p class="taC fw_bold f16 mg130t">未解答の設問があります。<br>
+                    終了してもよろしいですか？ </p>
+                <!-- text有ボタン-->
+                <div class="mg50t"> <a href="#open02"> <img src="img/button_finish_popup.png" onmousedown="return false" onselectstart="return false"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#"> <img src="img/button_cancel_popup_J.png" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <!-- text有ボタン--> 
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open01_off-->
+            <div id="open01_flag"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window"> 
+                <!--<img src="img/question_icon.png" alt="" class="mg50t"/>-->
+                <p class="taC fw_bold f16 mg130t">後で見直す設定の設問があります。<br>
+                    本当に終了しますか？ </p>
+                <!-- text有ボタン-->
+                <div class="mg50t"> <a href="#open02"> <img src="img/button_finish_popup.png" onmousedown="return false" onselectstart="return false"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#"> <img src="img/button_cancel_popup_J.png" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <!-- text有ボタン--> 
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open01_flag-->
+            <div id="open02"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window"> <img src="img/alert_icon.png" alt="" class="mg45t mg20b" onmousedown="return false" onselectstart="return false">
+                <p class="taC fw_bold f16">「終了する」を選択すると、<br>
+                    戻ることはできなくなります。 </p>
+                <!-- text有ボタン-->
+                <div class="mg30t"> <a href="#"> <img src="img/button_cancel_popup_J.png" onmousedown="return false" onselectstart="return false"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" id="finish_modal"> <img src="img/button_finish_popup.png" onmousedown="return false" onselectstart="return false"> </a> </div>
+                <!-- text有ボタン--> 
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open02-->
+            <div id="open03"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window_preferences">
+                <p class="taC fw_bold f16"></p>
+                <div class="mg420t"> <a href="#"> <img src="img/button_close_popup_J.png" onmousedown="return false" onselectstart="return false"> </a> </div>
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open03-->
+            <div id="open04"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window_detail"> <img src="img/alert_icon.png" alt="" class="mg45t" onmousedown="return false" onselectstart="return false">
+                <p class="taC fw_bold f16">本体験版では「確認」をクリックして進んでください。</p>
+                <div class="mg60t"> <a href="#"> <img src="img/button_close_popup_J.png" width="148" height="42" alt="" onmousedown="return false" onselectstart="return false"> </a> </div>
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open04-->
+            <div id="open05"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window_systemcheck"> <img src="img/alert_icon.png" alt="" class="mg45t" onmousedown="return false" onselectstart="return false">
+                <p class="taC fw_bold f16">本体験版では使用できません。</p>
+                <div class="mg60t"> <a href="#"> <img src="img/button_close_popup_J.png" width="148" height="42" alt="" onmousedown="return false" onselectstart="return false"> </a> </div>
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open05-->
+            <div id="open06"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window_timeexpire">
+                <p class="taC fw_bold f16 mg180t">制限時間に達しましたので、終了します。</p>
+                <div class="mg90t"> <a href="#" id="timeexpire_modal"> <img src="img/confirm_next_button_J.png" width="148" height="42" alt="" onmousedown="return false" onselectstart="return false"> </a> </div>
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open06-->
+            <div id="open07" style="display: none;"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window_loading"> <img src="img/loader.gif" width="280" height="200" alt="" onmousedown="return false" onselectstart="return false"> </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open07-->
+            <div id="open08"> <a href="#" class="close_overlay">×</a>
+                <div class="modal_window_examresult">
+                <p class="taC f23 mg70t">試験は終了しました。 <br>
+                    結果：合格 </p>
+                <p class="taC f15 grn mg40b">※体験版では全て「合格」が表示されます。</p>
+                <p class="taC f17 org fw_bold">分割表示の体験版に進む場合は、以下のボタンをクリックしてください。</p>
+                <div class="goto_tutorialPDF"> <a href="cbt_tutorial_pdf.html">分割表示の体験版へ進む <i class="fa fa-chevron-circle-right" aria-hidden="true"></i></a> </div>
+                <p class="taC mg60t">ここで終了する場合はブラウザのタブを閉じてください。 </p>
+                </div>
+                <!--/.modal_window--> 
+            </div>
+            <!--/#open08--> 
+            <!-- modal_calcForceCloseMessage start --> 
+            <!-- 電卓警告ウィンドウ表示用のアンカーリンク(非表示) --> 
+            <a href="#modal_calcForceCloseMessage" id="calcForceCloseLink">X</a>
+            <div id="modal_calcForceCloseMessage"> <a class="overlayFull" href="#">×</a>
+                <div class="modal_ConfirmScreen"> <img class="modal_ConfirmScreen_icon" src="img/alert_icon.png" onmousedown="return false" onselectstart="return false">
+                <p class="modal_calcForceCloseMessage_text"> ウィンドウサイズが変更されたため電卓を閉じました。<br>
+                    この動作は体験版のみ実行されます。<br>
+                    実際の試験ではウィンドウサイズは変更できません。</p>
+                <a href=".:" onclick="location.href='#';return false;"> <img src="img/button_close_popup_J.png" onmousedown="return false" onselectstart="return false"> </a> </div>
+            </div>
+        <!-- modal_calcForceCloseMessage end --> 
+        </div>
+        <!--/#modal--> 
+        <!-- modal contents end--> 
+
+    </body>
+</html>

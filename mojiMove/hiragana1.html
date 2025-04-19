@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+    <link rel="stylesheet" type="text/css" href="./css/game.css">
+    <title>平仮名の練習・５０音順</title>
+</head>
+<body>
+    <div class="data-container">
+        <div class="control-container">
+            <button id="reset">reset</button>
+            <button id="sound">&#128266;</button>
+        </div>
+        <div class="timer-container">
+            <p id="timer">0.0</p>
+        </div>
+    </div>
+    <div class="main-container" id="main-container">
+        <!-- ゲーム開始画面 -->
+        <div id="startScreen" class="screen active">
+            <div class="start-container">
+                <div class="start-container-content">
+                    <p>"chack kana in 50-on order"</p>
+                    <p>"Each error adds 3 seconds to your score"</p>  
+                    <button class="start-container-button" onclick="switchScreen('gameScreen')">start</button>
+                </div>
+            </div>
+        </div>
+            
+        <div id="gameScreen" class="screen"></div>
+        <div id="resultScreen" class="screen">    
+            <div id="result-container" class="result-container">
+
+            </div>
+            <button onclick="switchScreen('gameScreen')">New Game</button>
+        </div>
+        <!-- ここにメインコンテナのコンテンツを追加 -->
+    </div>
+    <script src="./js/game.js"></script>  
+</body>
+</html>

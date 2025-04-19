@@ -1,0 +1,757 @@
+[
+    {
+      "id": "03-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nです"
+    },
+    {
+      "id": "03-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nです"
+    },
+    {
+      "id": "03-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nじゃないです"
+    },
+    {
+      "id": "03-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nじゃないです"
+    },
+    {
+      "id": "03-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N1はN2です"
+    },
+    {
+      "id": "03-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】から<ruby>来<rt>き</rt></ruby>ました"
+    },
+    {
+      "id": "03-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】から<ruby>来<rt>き</rt></ruby>ました"
+    },
+    {
+      "id": "03-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nは？"
+    },
+    {
+      "id": "03-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Sか？"
+    },
+    {
+      "id": "03-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nも"
+    },
+    {
+      "id": "04-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N1とN2"
+    },
+    {
+      "id": "04-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【biểu thị nghi vấn】ですか？"
+    },
+    {
+      "id": "04-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【biểu thị nghi vấn】ですか？"
+    },
+    {
+      "id": "04-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】に<ruby>住<rt>す</rt></ruby>んでいます"
+    },
+    {
+      "id": "04-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】に<ruby>住<rt>す</rt></ruby>んでいます"
+    },
+    {
+      "id": "04-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N1のN2"
+    },
+    {
+      "id": "04-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N1のN2"
+    },
+    {
+      "id": "05-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nが<ruby>好<rt>す</rt></ruby>きです"
+    },
+    {
+      "id": "05-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nは<ruby>好<rt>す</rt></ruby>きじゃないです"
+    },
+    {
+      "id": "05-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nはちょっと…"
+    },
+    {
+      "id": "05-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-ますか？ (thể マス)"
+    },
+    {
+      "id": "05-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-ますか？ (thể マス)"
+    },
+    {
+      "id": "05-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-る？ (thể từ điển)"
+    },
+    {
+      "id": "05-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-る？ (thể từ điển)"
+    },
+    {
+      "id": "05-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "NをV-ます"
+    },
+    {
+      "id": "05-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "NをV-ます"
+    },
+    {
+      "id": "05-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "NをV-ます"
+    },
+    {
+      "id": "05-11-011",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "（Nは）V-ません"
+    },
+    {
+      "id": "05-11-012",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【いつも / よく】V-ます<br>< Tần suất >"
+    },
+    {
+      "id": "05-11-013",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【いつも / よく】V-ます<br>< Tần suất >"
+    },
+    {
+      "id": "05-11-014",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "あまり V-ません<br>< Tần suất >"
+    },
+    {
+      "id": "06-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、お<ruby>願<rt>ねが</rt></ruby>いします"
+    },
+    {
+      "id": "06-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、ください"
+    },
+    {
+      "id": "06-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nにします"
+    },
+    {
+      "id": "06-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nにします"
+    },
+    {
+      "id": "06-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、【số】お<ruby>願<rt>ねが</rt></ruby>いします"
+    },
+    {
+      "id": "06-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、【số】ください"
+    },
+    {
+      "id": "06-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、【số】ください"
+    },
+    {
+      "id": "06-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、【số】ください"
+    },
+    {
+      "id": "06-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N（は）ありますか？"
+    },
+    {
+      "id": "06-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N（は）ありますか？"
+    },
+    {
+      "id": "07-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ここは【địa điểm】です"
+    },
+    {
+      "id": "07-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】にNがあります"
+    },
+    {
+      "id": "07-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】にNがあります"
+    },
+    {
+      "id": "07-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】にNが【số】あります"
+    },
+    {
+      "id": "07-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】にNが【số】あります"
+    },
+    {
+      "id": "07-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "（Nは）ありません / ないです"
+    },
+    {
+      "id": "07-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-です / イA-いです"
+    },
+    {
+      "id": "07-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-です / イA-いです"
+    },
+    {
+      "id": "07-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-です / イA-いです"
+    },
+    {
+      "id": "07-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-じゃないです / イA-くないです"
+    },
+    {
+      "id": "07-11-011",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-じゃないです / イA-くないです"
+    },
+    {
+      "id": "07-11-012",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-じゃないです / イA-くないです"
+    },
+    {
+      "id": "07-11-013",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-じゃないです / イA-くないです"
+    },
+    {
+      "id": "08-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】でV-ます"
+    },
+    {
+      "id": "08-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【người】は【địa điểm】にいます"
+    },
+    {
+      "id": "08-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【người】は【địa điểm】にいます"
+    },
+    {
+      "id": "08-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "（【người】は）いません"
+    },
+    {
+      "id": "08-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "（【người】は）いないです"
+    },
+    {
+      "id": "08-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【đồ vật】はここにあります"
+    },
+    {
+      "id": "08-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【đồ vật】はそこにあります"
+    },
+    {
+      "id": "08-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【đồ vật】はあそこにあります"
+    },
+    {
+      "id": "08-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nの【vị trí】にあります"
+    },
+    {
+      "id": "08-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nの【vị trí】にあります"
+    },
+    {
+      "id": "09-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【thời gian】に V-ます"
+    },
+    {
+      "id": "09-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【thời gian】に V-ます"
+    },
+    {
+      "id": "09-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【thời gian】ごろ V-ます"
+    },
+    {
+      "id": "09-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【thời gian】ごろ V-ます"
+    },
+    {
+      "id": "09-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【thời gian】から【thời gian】まで"
+    },
+    {
+      "id": "09-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【thời gian】から【thời gian】まで"
+    },
+    {
+      "id": "09-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【ngày giờ】がいいです"
+    },
+    {
+      "id": "09-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【ngày giờ】がいいです"
+    },
+    {
+      "id": "10-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-てください"
+    },
+    {
+      "id": "10-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-てください"
+    },
+    {
+      "id": "10-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-て"
+    },
+    {
+      "id": "10-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-て"
+    },
+    {
+      "id": "10-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-てくれる？"
+    },
+    {
+      "id": "10-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-てくれる？"
+    },
+    {
+      "id": "10-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nですね<br>< Xác nhận >"
+    },
+    {
+      "id": "10-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nですね<br>< Xác nhận >"
+    },
+    {
+      "id": "10-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、<ruby>貸<rt>か</rt></ruby>してください"
+    },
+    {
+      "id": "10-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、<ruby>借<rt>か</rt></ruby>りてもいいですか？"
+    },
+    {
+      "id": "10-11-011",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、いいですか？"
+    },
+    {
+      "id": "10-11-012",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "N、ありますか？"
+    },
+    {
+      "id": "11-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "どんなN"
+    },
+    {
+      "id": "11-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "どんなN"
+    },
+    {
+      "id": "11-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "あまり ナA-じゃないです<br>< Mức độ >"
+    },
+    {
+      "id": "11-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【いつも / たいてい / よく / ときどき】V-ます<br>【あまり / ぜんぜん】V-ません<br>< Tần suất >"
+    },
+    {
+      "id": "11-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【いつも / たいてい / よく / ときどき】V-ます<br>【あまり / ぜんぜん】V-ません<br>< Tần suất >"
+    },
+    {
+      "id": "11-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【いつも / たいてい / よく / ときどき】V-ます<br>【あまり / ぜんぜん】V-ません<br>< Tần suất >"
+    },
+    {
+      "id": "11-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【いつも / たいてい / よく / ときどき】V-ます<br>【あまり / ぜんぜん】V-ません<br>< Tần suất >"
+    },
+    {
+      "id": "11-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【いつも / たいてい / よく / ときどき】V-ます<br>【あまり / ぜんぜん】V-ません<br>< Tần suất >"
+    },
+    {
+      "id": "11-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【người】と / 【địa điểm】で V-ます"
+    },
+    {
+      "id": "11-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【người】と / 【địa điểm】で V-ます"
+    },
+    {
+      "id": "12-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【ngày giờ】に / 【địa điểm】で 【sự kiện】があります"
+    },
+    {
+      "id": "12-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【ngày giờ】に / 【địa điểm】で 【sự kiện】があります"
+    },
+    {
+      "id": "12-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【ngày giờ】に / 【địa điểm】で 【sự kiện】があります"
+    },
+    {
+      "id": "12-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nに<ruby>行<rt>い</rt></ruby>きます"
+    },
+    {
+      "id": "12-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-ませんか？"
+    },
+    {
+      "id": "12-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-ましょう"
+    },
+    {
+      "id": "12-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-に<ruby>行<rt>い</rt></ruby>きます"
+    },
+    {
+      "id": "12-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-に<ruby>行<rt>い</rt></ruby>きます"
+    },
+    {
+      "id": "12-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-に<ruby>行<rt>い</rt></ruby>きます"
+    },
+    {
+      "id": "13-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "この【phương tiện giao thông】は【địa điểm】に<ruby>行<rt>い</rt></ruby>きますか？"
+    },
+    {
+      "id": "13-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "この【phương tiện giao thông】は【địa điểm】に<ruby>行<rt>い</rt></ruby>きますか？"
+    },
+    {
+      "id": "13-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【phương tiện giao thông】で<ruby>来<rt>き</rt></ruby>ます"
+    },
+    {
+      "id": "13-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【thời gian / khoảng thời gian】かかります"
+    },
+    {
+      "id": "13-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】で【phương tiện giao thông】に<ruby>乗<rt>の</rt></ruby>ります<br>【địa điểm】で【phương tiện giao thông】を<ruby>降<rt>お</rt></ruby>ります"
+    },
+    {
+      "id": "13-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】で【phương tiện giao thông】に<ruby>乗<rt>の</rt></ruby>ります<br>【địa điểm】で【phương tiện giao thông】を<ruby>降<rt>お</rt></ruby>ります"
+    },
+    {
+      "id": "13-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】で【phương tiện giao thông】に<ruby>乗<rt>の</rt></ruby>ります<br>【địa điểm】で【phương tiện giao thông】を<ruby>降<rt>お</rt></ruby>ります"
+    },
+    {
+      "id": "13-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】から【địa điểm】まで"
+    },
+    {
+      "id": "13-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】から【địa điểm】まで"
+    },
+    {
+      "id": "14-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】にN（は）ありますか？"
+    },
+    {
+      "id": "14-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Ｎの【vị trí】にいます"
+    },
+    {
+      "id": "14-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Ｎの【vị trí】にいます"
+    },
+    {
+      "id": "14-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-なNですね / イA-いNですね"
+    },
+    {
+      "id": "14-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-なNですね / イA-いNですね"
+    },
+    {
+      "id": "14-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-なNですね / イA-いNですね"
+    },
+    {
+      "id": "14-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-なNですね / イA-いNですね"
+    },
+    {
+      "id": "15-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nがほしいんですが"
+    },
+    {
+      "id": "15-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-ですね / イA-いですね"
+    },
+    {
+      "id": "15-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-ですね / イA-いですね"
+    },
+    {
+      "id": "15-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA！ / イA-い！"
+    },
+    {
+      "id": "15-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA！ / イA-い！"
+    },
+    {
+      "id": "16-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【これ / それ / あれ】（は）いくらですか？"
+    },
+    {
+      "id": "16-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【これ / それ / あれ】（は）いくらですか？"
+    },
+    {
+      "id": "16-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "このN"
+    },
+    {
+      "id": "16-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "そのN"
+    },
+    {
+      "id": "16-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "あのN"
+    },
+    {
+      "id": "16-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【số lượng】ずつ"
+    },
+    {
+      "id": "16-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【số lượng】ずつ"
+    },
+    {
+      "id": "17-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-ました"
+    },
+    {
+      "id": "17-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-ました"
+    },
+    {
+      "id": "17-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-ませんでした"
+    },
+    {
+      "id": "17-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "<ruby>何<rt>なに</rt></ruby>もV-ませんでした / どこにもV-ませんでした"
+    },
+    {
+      "id": "17-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "<ruby>何<rt>なに</rt></ruby>もV-ませんでした / どこにもV-ませんでした"
+    },
+    {
+      "id": "17-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-でした / イA-かったです"
+    },
+    {
+      "id": "17-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "ナA-でした / イA-かったです"
+    },
+    {
+      "id": "17-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nでした"
+    },
+    {
+      "id": "17-11-009",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nでした"
+    },
+    {
+      "id": "17-11-010",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです"
+    },
+    {
+      "id": "17-11-011",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです"
+    },
+    {
+      "id": "17-11-012",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです"
+    },
+    {
+      "id": "18-11-001",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-たいです"
+    },
+    {
+      "id": "18-11-002",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "V-たいです"
+    },
+    {
+      "id": "18-11-003",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "どこかV-ます"
+    },
+    {
+      "id": "18-11-004",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "S1。あと、S2。"
+    },
+    {
+      "id": "18-11-005",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "【địa điểm】へ<ruby>行<rt>い</rt></ruby>きます"
+    },
+    {
+      "id": "18-11-006",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "S1。それから、S2。"
+    },
+    {
+      "id": "18-11-007",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "S1。それに、S2。"
+    },
+    {
+      "id": "18-11-008",
+      "sid_directive": "Nhập câu trả lời thích hợp vào phần gạch chân để hoàn thành câu văn.",
+      "sid_head": "S1。でも、S2。"
+    }
+  ]

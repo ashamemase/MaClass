@@ -1,0 +1,702 @@
+[
+    {
+      "id": "03-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "03",
+      "category_id": "02",
+      "question_id": "01",
+      "question_text": "<span class=\"text-deco-u\">国</span>はミャンマーです。",
+      "answer": "くに",
+      "answer_romaji": "ku ni"
+    },
+    {
+      "id": "03-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "03",
+      "category_id": "02",
+      "question_id": "02",
+      "question_text": "<span class=\"text-deco-u\">私</span>はアクバルです。",
+      "answer": "わたし",
+      "answer_romaji": "wa ta shi"
+    },
+    {
+      "id": "03-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "03",
+      "category_id": "02",
+      "question_id": "03",
+      "question_text": "<span class=\"text-deco-u\">名前</span>はマルシアです。",
+      "answer": "なまえ",
+      "answer_romaji": "na ma e"
+    },
+    {
+      "id": "04-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "04",
+      "category_id": "02",
+      "question_id": "04",
+      "question_text": "<ruby>私<rt>わたし</rt></ruby>の<span class=\"text-deco-u\">子ども</span>です。",
+      "answer": "こども",
+      "answer_romaji": "ko do mo"
+    },
+    {
+      "id": "04-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "04",
+      "category_id": "02",
+      "question_id": "05",
+      "question_text": "<span class=\"text-deco-u\">母</span>です。",
+      "answer": "はは",
+      "answer_romaji": "ha ha"
+    },
+    {
+      "id": "04-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "04",
+      "category_id": "02",
+      "question_id": "06",
+      "question_text": "<span class=\"text-deco-u\">日本</span>に<ruby>住<rt>す</rt></ruby>んでいます。",
+      "answer": "にほん",
+      "answer_romaji": "ni ho nn"
+    },
+    {
+      "id": "04-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "04",
+      "category_id": "02",
+      "question_id": "07",
+      "question_text": "<span class=\"text-deco-u\">父</span>です。",
+      "answer": "ちち",
+      "answer_romaji": "chi chi"
+    },
+    {
+      "id": "05-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "05",
+      "category_id": "02",
+      "question_id": "08",
+      "question_text": "<span class=\"text-deco-u\">水</span>を<ruby>飲<rt>の</rt></ruby>みます。",
+      "answer": "みず",
+      "answer_romaji": "mi zu"
+    },
+    {
+      "id": "05-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "05",
+      "category_id": "02",
+      "question_id": "09",
+      "question_text": "<ruby>朝<rt>あさ</rt></ruby>ごはんは、あまり<span class=\"text-deco-u\">食べません</span>。",
+      "answer": "たべません",
+      "answer_romaji": "ta be ma se nn"
+    },
+    {
+      "id": "05-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "05",
+      "category_id": "02",
+      "question_id": "10",
+      "question_text": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<span class=\"text-deco-u\">飲みます</span>。",
+      "answer": "のみます",
+      "answer_romaji": "no mi ma su"
+    },
+    {
+      "id": "06-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "06",
+      "category_id": "02",
+      "question_id": "11",
+      "question_text": "うどんが<span class=\"text-deco-u\">好きです</span>。",
+      "answer": "すきです",
+      "answer_romaji": "su ki de su"
+    },
+    {
+      "id": "06-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "06",
+      "category_id": "02",
+      "question_id": "12",
+      "question_text": "<span class=\"text-deco-u\">魚</span>はあまり<ruby>食<rt>た</rt></ruby>べません。",
+      "answer": "さかな",
+      "answer_romaji": "sa ka na"
+    },
+    {
+      "id": "06-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "06",
+      "category_id": "02",
+      "question_id": "13",
+      "question_text": "<span class=\"text-deco-u\">肉</span>と<ruby>野菜<rt>やさい</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+      "answer": "にく",
+      "answer_romaji": "ni ku"
+    },
+    {
+      "id": "07-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "07",
+      "category_id": "02",
+      "question_id": "14",
+      "question_text": "<span class=\"text-deco-u\">家</span>は、ちょっとせまいです。",
+      "answer": "いえ",
+      "answer_romaji": "i e"
+    },
+    {
+      "id": "07-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "07",
+      "category_id": "02",
+      "question_id": "15",
+      "question_text": "<ruby>寮<rt>りょう</rt></ruby>は<span class=\"text-deco-u\">古い</span>です。",
+      "answer": "ふるい",
+      "answer_romaji": "fu ru i"
+    },
+    {
+      "id": "07-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "07",
+      "category_id": "02",
+      "question_id": "16",
+      "question_text": "アパートは、とても<span class=\"text-deco-u\">広い</span>です。",
+      "answer": "ひろい",
+      "answer_romaji": "hi ro i"
+    },
+    {
+      "id": "07-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "07",
+      "category_id": "02",
+      "question_id": "17",
+      "question_text": "シェアハウスは<span class=\"text-deco-u\">新しい</span>です。",
+      "answer": "あたらしい",
+      "answer_romaji": "a ta ra shi i"
+    },
+    {
+      "id": "08-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "08",
+      "category_id": "02",
+      "question_id": "18",
+      "question_text": "のりは、<ruby>箱<rt>はこ</rt></ruby>の<span class=\"text-deco-u\">中</span>にあります。",
+      "answer": "なか",
+      "answer_romaji": "na ka"
+    },
+    {
+      "id": "08-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "08",
+      "category_id": "02",
+      "question_id": "19",
+      "question_text": "ごみ<ruby>箱<rt>ばこ</rt></ruby>は、<ruby>机<rt>つくえ</rt></ruby>の<span class=\"text-deco-u\">下</span>です。",
+      "answer": "した",
+      "answer_romaji": "shi ta"
+    },
+    {
+      "id": "08-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "08",
+      "category_id": "02",
+      "question_id": "20",
+      "question_text": "はさみは、テーブルの<span class=\"text-deco-u\">上</span>です。",
+      "answer": "うえ",
+      "answer_romaji": "u e"
+    },
+    {
+      "id": "09-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "09",
+      "category_id": "02",
+      "question_id": "21",
+      "question_text": "<span class=\"text-deco-u\">月曜日</span>はちょっと<span lang=\"ja\">…</span>。",
+      "answer": "げつようび",
+      "answer_romaji": "ge tsu yo u bi"
+    },
+    {
+      "id": "09-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "09",
+      "category_id": "02",
+      "question_id": "22",
+      "question_text": "<ruby>私<rt>わたし</rt></ruby>は、<span class=\"text-deco-u\">土曜日</span>がいいです。",
+      "answer": "どようび",
+      "answer_romaji": "do yo u bi"
+    },
+    {
+      "id": "09-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "09",
+      "category_id": "02",
+      "question_id": "23",
+      "question_text": "<span class=\"text-deco-u\">水曜日</span>はだめです。",
+      "answer": "すいようび",
+      "answer_romaji": "su i yo u bi"
+    },
+    {
+      "id": "09-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "09",
+      "category_id": "02",
+      "question_id": "24",
+      "question_text": "<span class=\"text-deco-u\">木曜日</span>、だいじょうぶです。",
+      "answer": "もくようび",
+      "answer_romaji": "mo ku yo u bi"
+    },
+    {
+      "id": "09-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "09",
+      "category_id": "02",
+      "question_id": "25",
+      "question_text": "<span class=\"text-deco-u\">日曜日</span>にしましょう。",
+      "answer": "にちようび",
+      "answer_romaji": "ni chi yo u bi"
+    },
+    {
+      "id": "10-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "10",
+      "category_id": "02",
+      "question_id": "26",
+      "question_text": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>２<span class=\"text-deco-u\">時</span>からです。",
+      "answer": "じ",
+      "answer_romaji": "ji"
+    },
+    {
+      "id": "10-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "10",
+      "category_id": "02",
+      "question_id": "27",
+      "question_text": "<ruby>明日<rt>あした</rt></ruby>の<span class=\"text-deco-u\">夜</span>までにお<ruby>願<rt>ねが</rt></ruby>いします。",
+      "answer": "よる",
+      "answer_romaji": "yo ru"
+    },
+    {
+      "id": "10-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "10",
+      "category_id": "02",
+      "question_id": "28",
+      "question_text": "<ruby>山田<rt>やまだ</rt></ruby>さんから、<ruby>14時<rt>じゅうよじ</rt></ruby><span class=\"text-deco-u\">半</span>に<ruby>電話<rt>でんわ</rt></ruby>がありました。",
+      "answer": "はん",
+      "answer_romaji": "ha nn"
+    },
+    {
+      "id": "10-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "10",
+      "category_id": "02",
+      "question_id": "29",
+      "question_text": "<span class=\"text-deco-u\">朝</span>、８<ruby>時<rt>じ</rt></ruby>に、<ruby>事務室<rt>じむしつ</rt></ruby>に<ruby>来<rt>き</rt></ruby>てください。",
+      "answer": "あさ",
+      "answer_romaji": "a sa"
+    },
+    {
+      "id": "10-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "10",
+      "category_id": "02",
+      "question_id": "30",
+      "question_text": "コピー、30<span class=\"text-deco-u\">枚</span>お<ruby>願<rt>ねが</rt></ruby>いします。",
+      "answer": "まい",
+      "answer_romaji": "ma i"
+    },
+    {
+      "id": "11-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "11",
+      "category_id": "02",
+      "question_id": "31",
+      "question_text": "いつも、<ruby>音楽<rt>おんがく</rt></ruby>を<span class=\"text-deco-u\">聞きます</span>。",
+      "answer": "ききます",
+      "answer_romaji": "ki ki ma su"
+    },
+    {
+      "id": "11-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "11",
+      "category_id": "02",
+      "question_id": "32",
+      "question_text": "ジュンジュンさんは、<span class=\"text-deco-u\">何</span>が<ruby>好<rt>す</rt></ruby>きですか？",
+      "answer": "なに",
+      "answer_romaji": "na ni"
+    },
+    {
+      "id": "11-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "11",
+      "category_id": "02",
+      "question_id": "33",
+      "question_text": "たいてい、<ruby>映画<rt>えいが</rt></ruby>を<span class=\"text-deco-u\">見ます</span>。",
+      "answer": "みます",
+      "answer_romaji": "mi ma su"
+    },
+    {
+      "id": "11-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "11",
+      "category_id": "02",
+      "question_id": "34",
+      "question_text": "ときどき、<span class=\"text-deco-u\">友だち</span>と<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をします。",
+      "answer": "ともだち",
+      "answer_romaji": "to mo da chi"
+    },
+    {
+      "id": "11-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "11",
+      "category_id": "02",
+      "question_id": "35",
+      "question_text": "よく、<ruby>本<rt>ほん</rt></ruby>を<span class=\"text-deco-u\">読みます</span>。",
+      "answer": "よみます",
+      "answer_romaji": "yo mi ma su"
+    },
+    {
+      "id": "12-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "12",
+      "category_id": "02",
+      "question_id": "36",
+      "question_text": "また<span class=\"text-deco-u\">今度</span><ruby>行<rt>い</rt></ruby>きましょう。",
+      "answer": "こんど",
+      "answer_romaji": "ko nn do"
+    },
+    {
+      "id": "12-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "12",
+      "category_id": "02",
+      "question_id": "37",
+      "question_text": "８<span class=\"text-deco-u\">月</span>に<ruby>夏祭<rt>なつまつ</rt></ruby>りがあります。",
+      "answer": "がつ",
+      "answer_romaji": "ga tsu"
+    },
+    {
+      "id": "12-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "12",
+      "category_id": "02",
+      "question_id": "38",
+      "question_text": "2024<span class=\"text-deco-u\">年</span><ruby>４月<rt>しがつ</rt></ruby>に、<ruby>大阪<rt>おおさか</rt></ruby>でタイフェスティバルがあります。",
+      "answer": "ねん",
+      "answer_romaji": "ne nn"
+    },
+    {
+      "id": "12-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "12",
+      "category_id": "02",
+      "question_id": "39",
+      "question_text": "<span class=\"text-deco-u\">今日</span>の<ruby>夜<rt>よる</rt></ruby>、いっしょに<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>きませんか？",
+      "answer": "きょう",
+      "answer_romaji": "kyo u"
+    },
+    {
+      "id": "12-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "12",
+      "category_id": "02",
+      "question_id": "40",
+      "question_text": "18<span class=\"text-deco-u\">日</span>に、<ruby>交流<rt>こうりゅう</rt></ruby>パーティーがあります。",
+      "answer": "にち",
+      "answer_romaji": "ni chi"
+    },
+    {
+      "id": "13-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "13",
+      "category_id": "02",
+      "question_id": "41",
+      "question_text": "マリンシティまでバスに<span class=\"text-deco-u\">乗ります</span>。",
+      "answer": "のります",
+      "answer_romaji": "no ri ma su"
+    },
+    {
+      "id": "13-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "13",
+      "category_id": "02",
+      "question_id": "42",
+      "question_text": "<span class=\"text-deco-u\">東<ruby>口<rt>ぐち</rt></ruby></span>で、タクシーに<ruby>乗<rt>の</rt></ruby>ります。",
+      "answer": "ひがしぐち",
+      "answer_romaji": "hi ga shi gu chi"
+    },
+    {
+      "id": "13-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "13",
+      "category_id": "02",
+      "question_id": "43",
+      "question_text": "さくらモールまでタクシーで<span class=\"text-deco-u\">行きます</span>。",
+      "answer": "いきます",
+      "answer_romaji": "i ki ma su"
+    },
+    {
+      "id": "13-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "13",
+      "category_id": "02",
+      "question_id": "44",
+      "question_text": "もみじ<ruby>駅<rt>えき</rt></ruby>は、<span class=\"text-deco-u\">西<ruby>口<rt>ぐち</rt></ruby></span>と<ruby>東口<rt>ひがしぐち</rt></ruby>があります。",
+      "answer": "にしぐち",
+      "answer_romaji": "ni shi gu chi"
+    },
+    {
+      "id": "13-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "13",
+      "category_id": "02",
+      "question_id": "45",
+      "question_text": "<ruby>家<rt>いえ</rt></ruby>から<ruby>会社<rt>かいしゃ</rt></ruby>まで、<ruby>歩<rt>ある</rt></ruby>いて<span class=\"text-deco-u\">来ます</span>。",
+      "answer": "きます",
+      "answer_romaji": "ki ma su"
+    },
+    {
+      "id": "14-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "14",
+      "category_id": "02",
+      "question_id": "46",
+      "question_text": "<ruby>今<rt>いま</rt></ruby>、インフォメーションの<span class=\"text-deco-u\">前</span>にいます。",
+      "answer": "まえ",
+      "answer_romaji": "ma e"
+    },
+    {
+      "id": "14-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "14",
+      "category_id": "02",
+      "question_id": "47",
+      "question_text": "<ruby>京都<rt>きょうと</rt></ruby>は、<span class=\"text-deco-u\">小さい</span>お<ruby>寺<rt>てら</rt></ruby>がたくさんあります。",
+      "answer": "ちいさい",
+      "answer_romaji": "chi i sa i"
+    },
+    {
+      "id": "14-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "14",
+      "category_id": "02",
+      "question_id": "48",
+      "question_text": "<ruby>今<rt>いま</rt></ruby>、コンビニの<span class=\"text-deco-u\">横</span>にいます。",
+      "answer": "よこ",
+      "answer_romaji": "yo ko"
+    },
+    {
+      "id": "14-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "14",
+      "category_id": "02",
+      "question_id": "49",
+      "question_text": "ビルの<ruby>横<rt>よこ</rt></ruby>に、<span class=\"text-deco-u\">低い</span><ruby>建物<rt>たてもの</rt></ruby>があります。",
+      "answer": "ひくい",
+      "answer_romaji": "hi ku i"
+    },
+    {
+      "id": "14-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "14",
+      "category_id": "02",
+      "question_id": "50",
+      "question_text": "<ruby>今<rt>いま</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>の<span class=\"text-deco-u\">後ろ</span>にいます。",
+      "answer": "うしろ",
+      "answer_romaji": "u shi ro"
+    },
+    {
+      "id": "15-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "15",
+      "category_id": "02",
+      "question_id": "51",
+      "question_text": "カメラは２<span class=\"text-deco-u\">階</span>です。",
+      "answer": "かい",
+      "answer_romaji": "ka i"
+    },
+    {
+      "id": "15-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "15",
+      "category_id": "02",
+      "question_id": "52",
+      "question_text": "<span class=\"text-deco-u\">入口</span>はこちらです。",
+      "answer": "いりぐち",
+      "answer_romaji": "i ri gu chi"
+    },
+    {
+      "id": "15-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "15",
+      "category_id": "02",
+      "question_id": "53",
+      "question_text": "<span class=\"text-deco-u\">押して</span>ください。",
+      "answer": "おして",
+      "answer_romaji": "o shi te"
+    },
+    {
+      "id": "15-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "15",
+      "category_id": "02",
+      "question_id": "54",
+      "question_text": "<span class=\"text-deco-u\">出口</span>はあちらです。",
+      "answer": "でぐち",
+      "answer_romaji": "de gu chi"
+    },
+    {
+      "id": "15-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "15",
+      "category_id": "02",
+      "question_id": "55",
+      "question_text": "<span class=\"text-deco-u\">引いて</span>ください。",
+      "answer": "ひいて",
+      "answer_romaji": "hi i te"
+    },
+    {
+      "id": "16-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "16",
+      "category_id": "02",
+      "question_id": "56",
+      "question_text": "このシュウマイは、<span class=\"text-deco-u\">一<ruby>割引<rt>わりびき</rt></ruby></span>です。",
+      "answer": "いちわりびき",
+      "answer_romaji": "i chi wa ri bi ki"
+    },
+    {
+      "id": "16-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "16",
+      "category_id": "02",
+      "question_id": "57",
+      "question_text": "チョコレートケーキとチーズケーキ、<span class=\"text-deco-u\">三<ruby>個<rt>こ</rt></ruby></span>ずつお<ruby>願<rt>ねが</rt></ruby>いします。",
+      "answer": "さんこ",
+      "answer_romaji": "sa nn ko"
+    },
+    {
+      "id": "16-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "16",
+      "category_id": "02",
+      "question_id": "58",
+      "question_text": "たい<ruby>焼<rt>や</rt></ruby>き<span class=\"text-deco-u\">九<ruby>個<rt>こ</rt></ruby></span>、ください。",
+      "answer": "きゅうこ",
+      "answer_romaji": "kyu u ko"
+    },
+    {
+      "id": "16-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "16",
+      "category_id": "02",
+      "question_id": "59",
+      "question_text": "<ruby>表示価格<rt>ひょうじかかく</rt></ruby>より<span class=\"text-deco-u\">二<ruby>割引<rt>わりびき</rt></ruby></span>です。",
+      "answer": "にわりびき",
+      "answer_romaji": "ni wa ri bi ki"
+    },
+    {
+      "id": "16-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "16",
+      "category_id": "02",
+      "question_id": "60",
+      "question_text": "コロッケ、<span class=\"text-deco-u\">四<ruby>個<rt>こ</rt></ruby></span>ください。",
+      "answer": "よんこ",
+      "answer_romaji": "yo nn ko"
+    },
+    {
+      "id": "17-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "17",
+      "category_id": "02",
+      "question_id": "61",
+      "question_text": "<ruby>週末<rt>しゅうまつ</rt></ruby>は、<span class=\"text-deco-u\">映画</span>を<ruby>見<rt>み</rt></ruby>ました。",
+      "answer": "えいが",
+      "answer_romaji": "e i ga"
+    },
+    {
+      "id": "17-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "17",
+      "category_id": "02",
+      "question_id": "62",
+      "question_text": "かばんを<ruby>買<rt>か</rt></ruby>いました。<span class=\"text-deco-u\">千円</span>でした。",
+      "answer": "せんえん",
+      "answer_romaji": "se nn e nn"
+    },
+    {
+      "id": "17-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "17",
+      "category_id": "02",
+      "question_id": "63",
+      "question_text": "<ruby>日本語<rt>にほんご</rt></ruby>を<span class=\"text-deco-u\">勉強しました</span>。",
+      "answer": "べんきょうしました",
+      "answer_romaji": "be nn kyo u shi ma shi ta"
+    },
+    {
+      "id": "17-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "17",
+      "category_id": "02",
+      "question_id": "64",
+      "question_text": "<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。<span class=\"text-deco-u\"><ruby>一<rt>いち</rt></ruby>万円</span>でした。",
+      "answer": "いちまんえん",
+      "answer_romaji": "i chi ma nn e nn"
+    },
+    {
+      "id": "17-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "17",
+      "category_id": "02",
+      "question_id": "65",
+      "question_text": "<span class=\"text-deco-u\">休み</span>は、<ruby>友<rt>とも</rt></ruby>だちと<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>きました。",
+      "answer": "やすみ",
+      "answer_romaji": "ya su mi"
+    },
+    {
+      "id": "18-07-001",
+      "practice_type_id": "07",
+      "lesson_id": "18",
+      "category_id": "02",
+      "question_id": "66",
+      "question_text": "<span class=\"text-deco-u\">温泉</span>に<ruby>行<rt>い</rt></ruby>きたいです。",
+      "answer": "おんせん",
+      "answer_romaji": "o nn se nn"
+    },
+    {
+      "id": "18-07-002",
+      "practice_type_id": "07",
+      "lesson_id": "18",
+      "category_id": "02",
+      "question_id": "67",
+      "question_text": "どこか<span class=\"text-deco-u\">旅行したい</span>です。",
+      "answer": "りょこうしたい",
+      "answer_romaji": "ryo ko u shi ta i"
+    },
+    {
+      "id": "18-07-003",
+      "practice_type_id": "07",
+      "lesson_id": "18",
+      "category_id": "02",
+      "question_id": "68",
+      "question_text": "<ruby>露天風呂<rt>ろてんぶろ</rt></ruby>に<span class=\"text-deco-u\">入りました</span>。",
+      "answer": "はいりました",
+      "answer_romaji": "ha i ri ma shi ta"
+    },
+    {
+      "id": "18-07-004",
+      "practice_type_id": "07",
+      "lesson_id": "18",
+      "category_id": "02",
+      "question_id": "69",
+      "question_text": "<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>友<rt>とも</rt></ruby>だちに<span class=\"text-deco-u\">会いました</span>。",
+      "answer": "あいました",
+      "answer_romaji": "a i ma shi ta"
+    },
+    {
+      "id": "18-07-005",
+      "practice_type_id": "07",
+      "lesson_id": "18",
+      "category_id": "02",
+      "question_id": "70",
+      "question_text": "<span class=\"text-deco-u\">来週</span>の<ruby>連休<rt>れんきゅう</rt></ruby>は、どこにも<ruby>行<rt>い</rt></ruby>きません。",
+      "answer": "らいしゅう",
+      "answer_romaji": "ra i shu u"
+    }
+  ]

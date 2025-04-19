@@ -1,0 +1,726 @@
+[
+    {
+      "id": "18-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"V-たいです\"."
+    },
+    {
+      "id": "18-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"V-たいです\"."
+    },
+    {
+      "id": "18-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"V-たいです\"."
+    },
+    {
+      "id": "18-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"V-たいです\"."
+    },
+    {
+      "id": "18-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"V-たいです\"."
+    },
+    {
+      "id": "18-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"どこか V-ます\"."
+    },
+    {
+      "id": "18-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"どこか V-ます\"."
+    },
+    {
+      "id": "18-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】へ<ruby>行<rt>い</rt></ruby>きます\"."
+    },
+    {
+      "id": "18-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】へ<ruby>行<rt>い</rt></ruby>きます\"."
+    },
+    {
+      "id": "17-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"V-ました\"."
+    },
+    {
+      "id": "17-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"V-ました\"."
+    },
+    {
+      "id": "17-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"V-ました\"."
+    },
+    {
+      "id": "17-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"V-ました\"."
+    },
+    {
+      "id": "17-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんでした\"."
+    },
+    {
+      "id": "17-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんでした\"."
+    },
+    {
+      "id": "17-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんでした\"."
+    },
+    {
+      "id": "17-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんでした\"."
+    },
+    {
+      "id": "17-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"<ruby>何<rt>なに</rt></ruby>も V-ませんでした\"."
+    },
+    {
+      "id": "17-09-010",
+      "sid_directive": "Hãy chuyển sang thể \"どこにも V-ませんでした\"."
+    },
+    {
+      "id": "17-09-011",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-でした / イA-かったです\"."
+    },
+    {
+      "id": "17-09-012",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-でした / イA-かったです\"."
+    },
+    {
+      "id": "17-09-013",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-でした / イA-かったです\"."
+    },
+    {
+      "id": "17-09-014",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-でした / イA-かったです\"."
+    },
+    {
+      "id": "17-09-015",
+      "sid_directive": "Hãy chuyển sang thể \"Nでした\"."
+    },
+    {
+      "id": "17-09-016",
+      "sid_directive": "Hãy chuyển sang thể \"Nでした\"."
+    },
+    {
+      "id": "17-09-017",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです\"."
+    },
+    {
+      "id": "17-09-018",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです\"."
+    },
+    {
+      "id": "17-09-019",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです\"."
+    },
+    {
+      "id": "17-09-020",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃなかったです / ナA-じゃなかったです / イA-くなかったです\"."
+    },
+    {
+      "id": "16-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"【số lượng】ずつ\"."
+    },
+    {
+      "id": "16-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"【số lượng】ずつ\"."
+    },
+    {
+      "id": "16-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【số lượng】ずつ\"."
+    },
+    {
+      "id": "15-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-ですね / イA-いですね\"."
+    },
+    {
+      "id": "15-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-ですね / イA-いですね\"."
+    },
+    {
+      "id": "15-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-ですね / イA-いですね\"."
+    },
+    {
+      "id": "15-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-ですね / イA-いですね\"."
+    },
+    {
+      "id": "15-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"ナA！ / イA-い！\"."
+    },
+    {
+      "id": "15-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"ナA！ / イA-い！\"."
+    },
+    {
+      "id": "15-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"ナA！ / イA-い！\"."
+    },
+    {
+      "id": "15-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"ナA！ / イA-い！\"."
+    },
+    {
+      "id": "14-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にいます\"."
+    },
+    {
+      "id": "14-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にいます\"."
+    },
+    {
+      "id": "14-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にいます\"."
+    },
+    {
+      "id": "14-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にいます\"."
+    },
+    {
+      "id": "14-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-なN / イA-N ですね\"."
+    },
+    {
+      "id": "14-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-なN / イA-N ですね\"."
+    },
+    {
+      "id": "14-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-なN / イA-N ですね\"."
+    },
+    {
+      "id": "14-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-なN / イA-N ですね\"."
+    },
+    {
+      "id": "13-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"この【phương tiện giao thông】は【địa điểm】に<ruby>行<rt>い</rt></ruby>きますか？\"."
+    },
+    {
+      "id": "13-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"この【phương tiện giao thông】は【địa điểm】に<ruby>行<rt>い</rt></ruby>きますか？\"."
+    },
+    {
+      "id": "13-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【phương tiện giao thông】で<ruby>来<rt>き</rt></ruby>ます\"."
+    },
+    {
+      "id": "13-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"【phương tiện giao thông】で<ruby>来<rt>き</rt></ruby>ます\"."
+    },
+    {
+      "id": "13-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"【phương tiện giao thông】で<ruby>来<rt>き</rt></ruby>ます\"."
+    },
+    {
+      "id": "13-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】で【phương tiện giao thông】に<ruby>乗<rt>の</rt></ruby>ります\"."
+    },
+    {
+      "id": "13-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】で【phương tiện giao thông】に<ruby>乗<rt>の</rt></ruby>ります\"."
+    },
+    {
+      "id": "13-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】で【phương tiện giao thông】を<ruby>降<rt>お</rt></ruby>ります\"."
+    },
+    {
+      "id": "13-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】で【phương tiện giao thông】を<ruby>降<rt>お</rt></ruby>ります\"."
+    },
+    {
+      "id": "12-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"【ngày giờ】に【sự kiện】があります\"."
+    },
+    {
+      "id": "12-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】で【sự kiện】があります\"."
+    },
+    {
+      "id": "12-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【ngày giờ】に【địa điểm】で【sự kiện】があります\"."
+    },
+    {
+      "id": "12-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんか？\"."
+    },
+    {
+      "id": "12-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんか？\"."
+    },
+    {
+      "id": "12-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんか？\"."
+    },
+    {
+      "id": "12-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"V-ませんか？\"."
+    },
+    {
+      "id": "12-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"V-ましょう\"."
+    },
+    {
+      "id": "12-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"V-ましょう\"."
+    },
+    {
+      "id": "12-09-010",
+      "sid_directive": "Hãy chuyển sang thể \"V-ましょう\"."
+    },
+    {
+      "id": "12-09-011",
+      "sid_directive": "Hãy chuyển sang thể \"V-ましょう\"."
+    },
+    {
+      "id": "12-09-012",
+      "sid_directive": "Hãy chuyển sang thể \"V-に<ruby>行<rt>い</rt></ruby>きます\"."
+    },
+    {
+      "id": "12-09-013",
+      "sid_directive": "Hãy chuyển sang thể \"V-に<ruby>行<rt>い</rt></ruby>きます\"."
+    },
+    {
+      "id": "12-09-014",
+      "sid_directive": "Hãy chuyển sang thể \"V-に<ruby>行<rt>い</rt></ruby>きます\"."
+    },
+    {
+      "id": "12-09-015",
+      "sid_directive": "Hãy chuyển sang thể \"V-に<ruby>行<rt>い</rt></ruby>きます\"."
+    },
+    {
+      "id": "11-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"【người】と V-ます\"."
+    },
+    {
+      "id": "11-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"【người】と V-ます\"."
+    },
+    {
+      "id": "11-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】で V-ます\"."
+    },
+    {
+      "id": "11-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】で V-ます\"."
+    },
+    {
+      "id": "11-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"【người】と【địa điểm】で V-ます\"."
+    },
+    {
+      "id": "11-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"【người】と【địa điểm】で V-ます\"."
+    },
+    {
+      "id": "10-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"V-てください\"."
+    },
+    {
+      "id": "10-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"V-てください\"."
+    },
+    {
+      "id": "10-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"V-てください\"."
+    },
+    {
+      "id": "10-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"V-て\"."
+    },
+    {
+      "id": "10-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"V-て\"."
+    },
+    {
+      "id": "10-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"V-て\"."
+    },
+    {
+      "id": "10-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"V-てくれる？\"."
+    },
+    {
+      "id": "10-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"V-てくれる？\"."
+    },
+    {
+      "id": "10-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"V-てくれる？\"."
+    },
+    {
+      "id": "10-09-010",
+      "sid_directive": "Hãy chuyển sang thể \"Nですね < Xác nhận >\"."
+    },
+    {
+      "id": "10-09-011",
+      "sid_directive": "Hãy chuyển sang thể \"Nですね < Xác nhận >\"."
+    },
+    {
+      "id": "10-09-012",
+      "sid_directive": "Hãy chuyển sang thể \"N、<ruby>貸<rt>か</rt></ruby>してください\"."
+    },
+    {
+      "id": "10-09-013",
+      "sid_directive": "Hãy chuyển sang thể \"N、<ruby>貸<rt>か</rt></ruby>してください\"."
+    },
+    {
+      "id": "10-09-014",
+      "sid_directive": "Hãy chuyển sang thể \"N、<ruby>借<rt>か</rt></ruby>りてもいいですか？\"."
+    },
+    {
+      "id": "10-09-015",
+      "sid_directive": "Hãy chuyển sang thể \"N、<ruby>借<rt>か</rt></ruby>りてもいいですか？\"."
+    },
+    {
+      "id": "10-09-016",
+      "sid_directive": "Hãy chuyển sang thể \"N、いいですか？\"."
+    },
+    {
+      "id": "10-09-017",
+      "sid_directive": "Hãy chuyển sang thể \"N、いいですか？\"."
+    },
+    {
+      "id": "10-09-018",
+      "sid_directive": "Hãy chuyển sang thể \"N、ありますか？\"."
+    },
+    {
+      "id": "10-09-019",
+      "sid_directive": "Hãy chuyển sang thể \"N、ありますか？\"."
+    },
+    {
+      "id": "09-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"【thời gian】に V-ます\"."
+    },
+    {
+      "id": "09-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"【thời gian】に V-ます\"."
+    },
+    {
+      "id": "09-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【thời gian】ごろ V-ます\"."
+    },
+    {
+      "id": "09-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"【thời gian】ごろ V-ます\"."
+    },
+    {
+      "id": "09-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"【thời gian】から【thời gian】まで\"."
+    },
+    {
+      "id": "09-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"【thời gian】から【thời gian】まで\"."
+    },
+    {
+      "id": "09-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"【ngày giờ】がいいです\"."
+    },
+    {
+      "id": "09-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"【ngày giờ】がいいです\"."
+    },
+    {
+      "id": "08-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】でV-ます\"."
+    },
+    {
+      "id": "08-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】でV-ます\"."
+    },
+    {
+      "id": "08-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【người】は【địa điểm】にいます\"."
+    },
+    {
+      "id": "08-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"【người】は【địa điểm】にいます\"."
+    },
+    {
+      "id": "08-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"【người】は【địa điểm】にいます\"."
+    },
+    {
+      "id": "08-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"【đồ vật】は【ここ / そこ / あそこ】にあります\"."
+    },
+    {
+      "id": "08-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"【đồ vật】は【ここ / そこ / あそこ】にあります\"."
+    },
+    {
+      "id": "08-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"【đồ vật】は【ここ / そこ / あそこ】にあります\"."
+    },
+    {
+      "id": "08-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にあります\"."
+    },
+    {
+      "id": "08-09-010",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にあります\"."
+    },
+    {
+      "id": "08-09-011",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にあります\"."
+    },
+    {
+      "id": "08-09-012",
+      "sid_directive": "Hãy chuyển sang thể \"Nの【vị trí】にあります\"."
+    },
+    {
+      "id": "07-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"ここは【địa điểm】です\"."
+    },
+    {
+      "id": "07-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"ここは【địa điểm】です\"."
+    },
+    {
+      "id": "07-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"ここは【địa điểm】です\"."
+    },
+    {
+      "id": "07-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】にNがあります\"."
+    },
+    {
+      "id": "07-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】にNがあります\"."
+    },
+    {
+      "id": "07-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】にNが【số】あります\"."
+    },
+    {
+      "id": "07-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】にNが【số】あります\"."
+    },
+    {
+      "id": "07-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"（Nは）ありません\"."
+    },
+    {
+      "id": "07-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"（Nは）ありません\"."
+    },
+    {
+      "id": "07-09-010",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-です\"."
+    },
+    {
+      "id": "07-09-011",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-です\"."
+    },
+    {
+      "id": "07-09-012",
+      "sid_directive": "Hãy chuyển sang thể \"イA-いです\"."
+    },
+    {
+      "id": "07-09-013",
+      "sid_directive": "Hãy chuyển sang thể \"イA-いです\"."
+    },
+    {
+      "id": "07-09-014",
+      "sid_directive": "Hãy chuyển sang thể \"イA-いです\"."
+    },
+    {
+      "id": "07-09-015",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-じゃないです\"."
+    },
+    {
+      "id": "07-09-016",
+      "sid_directive": "Hãy chuyển sang thể \"ナA-じゃないです\"."
+    },
+    {
+      "id": "07-09-017",
+      "sid_directive": "Hãy chuyển sang thể \"イA-くないです\"."
+    },
+    {
+      "id": "07-09-018",
+      "sid_directive": "Hãy chuyển sang thể \"イA-くないです\"."
+    },
+    {
+      "id": "07-09-019",
+      "sid_directive": "Hãy chuyển sang thể \"イA-くないです\"."
+    },
+    {
+      "id": "06-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"N、お<ruby>願<rt>ねが</rt></ruby>いします\"."
+    },
+    {
+      "id": "06-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"N、お<ruby>願<rt>ねが</rt></ruby>いします\"."
+    },
+    {
+      "id": "06-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"N、ください\"."
+    },
+    {
+      "id": "06-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"N、ください\"."
+    },
+    {
+      "id": "06-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"N、ください\"."
+    },
+    {
+      "id": "06-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"Nにします\"."
+    },
+    {
+      "id": "06-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"Nにします\"."
+    },
+    {
+      "id": "06-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"Nにします\"."
+    },
+    {
+      "id": "06-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"N（は）ありますか？\"."
+    },
+    {
+      "id": "06-09-010",
+      "sid_directive": "Hãy chuyển sang thể \"N（は）ありますか？\"."
+    },
+    {
+      "id": "05-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"Nが<ruby>好<rt>す</rt></ruby>きです\"."
+    },
+    {
+      "id": "05-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"Nが<ruby>好<rt>す</rt></ruby>きです\"."
+    },
+    {
+      "id": "05-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"Nが<ruby>好<rt>す</rt></ruby>きです\"."
+    },
+    {
+      "id": "05-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"Nは<ruby>好<rt>す</rt></ruby>きじゃないです\"."
+    },
+    {
+      "id": "05-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"Nは<ruby>好<rt>す</rt></ruby>きじゃないです\"."
+    },
+    {
+      "id": "05-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"Nは<ruby>好<rt>す</rt></ruby>きじゃないです\"."
+    },
+    {
+      "id": "05-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"Nはちょっと…\"."
+    },
+    {
+      "id": "05-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"Nはちょっと…\"."
+    },
+    {
+      "id": "05-09-009",
+      "sid_directive": "Hãy chuyển sang thể \"V-ますか？ (thể マス)\"."
+    },
+    {
+      "id": "05-09-010",
+      "sid_directive": "Hãy chuyển sang thể \"V-ますか？ (thể マス)\"."
+    },
+    {
+      "id": "05-09-011",
+      "sid_directive": "Hãy chuyển sang thể \"V-る？ (thể từ điển)\"."
+    },
+    {
+      "id": "05-09-012",
+      "sid_directive": "Hãy chuyển sang thể \"V-る？ (thể từ điển)\"."
+    },
+    {
+      "id": "05-09-013",
+      "sid_directive": "Hãy chuyển sang thể \"NをV-ます\"."
+    },
+    {
+      "id": "05-09-014",
+      "sid_directive": "Hãy chuyển sang thể \"NをV-ます\"."
+    },
+    {
+      "id": "05-09-015",
+      "sid_directive": "Hãy chuyển sang thể \"（Nは）V-ません\"."
+    },
+    {
+      "id": "05-09-016",
+      "sid_directive": "Hãy chuyển sang thể \"（Nは）V-ません\"."
+    },
+    {
+      "id": "05-09-017",
+      "sid_directive": "Hãy chuyển sang thể \"【いつも / よく】V-ます < Tần suất >\"."
+    },
+    {
+      "id": "05-09-018",
+      "sid_directive": "Hãy chuyển sang thể \"【いつも / よく】V-ます < Tần suất >\"."
+    },
+    {
+      "id": "05-09-019",
+      "sid_directive": "Hãy chuyển sang thể \"【あまり】V-ません < Tần suất >\"."
+    },
+    {
+      "id": "05-09-020",
+      "sid_directive": "Hãy chuyển sang thể \"【あまり】V-ません < Tần suất >\"."
+    },
+    {
+      "id": "04-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"【biểu thị nghi vấn】ですか？\"."
+    },
+    {
+      "id": "04-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"【biểu thị nghi vấn】ですか？\"."
+    },
+    {
+      "id": "04-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【biểu thị nghi vấn】ですか？\"."
+    },
+    {
+      "id": "04-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】に<ruby>住<rt>す</rt></ruby>んでいます\"."
+    },
+    {
+      "id": "04-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】に<ruby>住<rt>す</rt></ruby>んでいます\"."
+    },
+    {
+      "id": "04-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】に<ruby>住<rt>す</rt></ruby>んでいます\"."
+    },
+    {
+      "id": "04-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】に<ruby>住<rt>す</rt></ruby>んでいます\"."
+    },
+    {
+      "id": "03-09-001",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】から<ruby>来<rt>き</rt></ruby>ました\"."
+    },
+    {
+      "id": "03-09-002",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】から<ruby>来<rt>き</rt></ruby>ました\"."
+    },
+    {
+      "id": "03-09-003",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】から<ruby>来<rt>き</rt></ruby>ました\"."
+    },
+    {
+      "id": "03-09-004",
+      "sid_directive": "Hãy chuyển sang thể \"【địa điểm】から<ruby>来<rt>き</rt></ruby>ました\"."
+    },
+    {
+      "id": "03-09-005",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃないです\"."
+    },
+    {
+      "id": "03-09-006",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃないです\"."
+    },
+    {
+      "id": "03-09-007",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃないです\"."
+    },
+    {
+      "id": "03-09-008",
+      "sid_directive": "Hãy chuyển sang thể \"Nじゃないです\"."
+    }
+  ]

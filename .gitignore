@@ -1,0 +1,8 @@
+_workfiles/
+vendor/
+composer.json
+composer.lock
+jquerypractice/
+kanjivg/
+kanji/
+pages/auth/
