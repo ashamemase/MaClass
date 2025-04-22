@@ -23,15 +23,15 @@ export {};
   
   // 漢字の筆順アニメーションを制御するクラス
   class KanjiAnimator {
-    private time: number;                           // アニメーション全体の速度制御用
-    private running: boolean;                       // 現在アニメーション中かどうか
-    private paths!: NodeListOf<SVGPathElement>;     // ストローク（筆）パスのリスト
-    private texts!: NodeListOf<SVGTextElement>;     // 各ストロークの順番表示用テキスト
-    private count: number;                          // 現在のストロークのインデックス
-    private pathLength: number;                     // 現在描画中のストロークの長さ
-    private interval: number;                       // 1ステップのアニメーション間隔
-    private timer: number;                          // アニメーション用のタイマーID
-  
+    private time: number; // アニメーション全体の速度制御用
+    private running: boolean; // 現在アニメーション中かどうか
+    private paths!: NodeListOf<SVGPathElement>; // ストローク（筆）パスのリスト
+    private texts!: NodeListOf<SVGTextElement>; // 各ストロークの順番表示用テキスト
+    private count: number; // 現在のストロークのインデックス
+    private pathLength: number; // 現在描画中のストロークの長さ
+    private interval: number; // 1ステップのアニメーション間隔
+    private timer: number; // アニメーション用のタイマーID
+
     constructor(time: number = 20) {
       this.time = time;
       this.running = false;
@@ -40,80 +40,80 @@ export {};
       this.interval = 0;
       this.timer = 0;
     }
-  
+
     // アニメーションを開始する
     public play(svg: SVGSVGElement): void {
       if (this.running) return;
       this.running = true;
-  
+
       // 既にタイマーがあればクリア
       if (this.timer !== 0) {
         clearInterval(this.timer);
       }
-  
+
       console.log("アニメーション開始");
-  
+
       // SVG内のストロークと順番表示を取得
       this.paths = svg.querySelectorAll("path");
       this.texts = svg.querySelectorAll("text");
-  
+
       // カウンタ初期化・非表示化
       this.count = 0;
       this.hideAll();
-  
+
       // 最初のストロークから開始
       const path = this.paths[this.count];
       const text = this.texts[this.count];
       this.AnimatePath(path, text);
-  
+
       this.running = false;
     }
-  
+
     // アニメーションを強制的にリセットする
     public reset(): void {
       this.running = false;
       console.log("アニメーションリセット");
     }
-  
+
     // 単一のストロークのアニメーション準備と開始
     private AnimatePath(path: SVGPathElement, text: SVGTextElement): void {
       this.pathLength = path.getTotalLength();
-  
+
       path.style.display = "block";
       if (typeof text !== "undefined") {
         text.style.display = "block";
       }
-  
+
       // ストローク描画用の下準備
       path.style.transition = "none";
       path.style.strokeDasharray = `${this.pathLength} ${this.pathLength}`;
       path.style.strokeDashoffset = this.pathLength.toString();
       path.getBoundingClientRect(); // レンダリング強制
-  
+
       // アニメーションの速度設定
       this.interval = this.time / this.pathLength;
-  
+
       // アニメーション実行
       this.DoAnimation(path);
     }
-  
+
     // ストローク1本を描くアニメーション本体
     private DoAnimation(path: SVGPathElement): void {
       // タイマーで次のフレームを設定
       this.timer = setTimeout(() => {
         this.DoAnimation(path);
       }, this.time);
-  
+
       // 描画を少しずつ進める
       path.style.strokeDashoffset = this.pathLength.toString();
       this.pathLength--;
-  
+
       // ストロークが描き終わったら次へ
       if (this.pathLength < 0) {
         clearInterval(this.timer); // 現在のタイマー停止
         this.time = 0;
         this.count++;
-  
+
         if (this.count < this.paths.length) {
           const newPath = this.paths[this.count];
           const newText = this.texts[this.count];
@@ -121,7 +121,7 @@ export {};
         }
       }
     }
-  
+
     // 全てのストロークと順番表示を非表示にする
     private hideAll(): void {
       for (const path of this.paths) {
@@ -134,3 +134,57 @@ export {};
       }
     }
   }
+
+class SVGLoader {
+  private containerId: string;
+
+  constructor(containerId: string) {
+    this.containerId = containerId;
+  }
+
+  public async load(char: string): Promise<void> {
+    const codePoint = char.codePointAt(0);
+    if (!codePoint) return;
+
+    const fileName = codePoint.toString(16).toUpperCase().padStart(5, "0");
+
+    try {
+      const response = await fetch(`./svg/${fileName}.svg`);
+      const text = await response.text();
+
+      const match = text.match(/<svg[^>]*>[\s\S]*?<\/svg>/i);
+      if (!match) {
+        console.error("SVGタグが見つかりませんでした");
+        return;
+      }
+
+      const parser = new DOMParser();
+      const svgDoc = parser.parseFromString(match[0], "image/svg+xml");
+      const svgEl = svgDoc.documentElement;
+
+      const container = document.getElementById(this.containerId);
+      if (!container) return;
+
+      const { width: divW, height: divH } = container.getBoundingClientRect();
+
+      const vb = svgEl.getAttribute("viewBox")?.split(" ").map(Number);
+      if (!vb || vb.length !== 4) {
+        console.error("viewBoxが無効です");
+        return;
+      }
+      const [x, y, w, h] = vb;
+
+      const scale = Math.min(divW / w, divH / h);
+
+      svgEl.setAttribute("width", (w * scale).toString());
+      svgEl.setAttribute("height", (h * scale).toString());
+      svgEl.setAttribute("preserveAspectRatio", "xMidYMid meet");
+
+      container.innerHTML = "";
+      container.appendChild(svgEl);
+    } catch (err) {
+      console.error("SVGの読み込みに失敗しました:", err);
+    }
+  }
+}
+  

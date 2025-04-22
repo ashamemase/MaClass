@@ -97,4 +97,47 @@ class KanjiAnimator {
         }
     }
 }
+class SVGLoader {
+    constructor(containerId) {
+        this.containerId = containerId;
+    }
+    async load(char) {
+        var _a;
+        const codePoint = char.codePointAt(0);
+        if (!codePoint)
+            return;
+        const fileName = codePoint.toString(16).toUpperCase().padStart(5, "0");
+        try {
+            const response = await fetch(`./svg/${fileName}.svg`);
+            const text = await response.text();
+            const match = text.match(/<svg[^>]*>[\s\S]*?<\/svg>/i);
+            if (!match) {
+                console.error("SVGタグが見つかりませんでした");
+                return;
+            }
+            const parser = new DOMParser();
+            const svgDoc = parser.parseFromString(match[0], "image/svg+xml");
+            const svgEl = svgDoc.documentElement;
+            const container = document.getElementById(this.containerId);
+            if (!container)
+                return;
+            const { width: divW, height: divH } = container.getBoundingClientRect();
+            const vb = (_a = svgEl.getAttribute("viewBox")) === null || _a === void 0 ? void 0 : _a.split(" ").map(Number);
+            if (!vb || vb.length !== 4) {
+                console.error("viewBoxが無効です");
+                return;
+            }
+            const [x, y, w, h] = vb;
+            const scale = Math.min(divW / w, divH / h);
+            svgEl.setAttribute("width", (w * scale).toString());
+            svgEl.setAttribute("height", (h * scale).toString());
+            svgEl.setAttribute("preserveAspectRatio", "xMidYMid meet");
+            container.innerHTML = "";
+            container.appendChild(svgEl);
+        }
+        catch (err) {
+            console.error("SVGの読み込みに失敗しました:", err);
+        }
+    }
+}
 export {};

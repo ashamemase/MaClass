@@ -196,6 +196,7 @@ class Quiz {
         this.pathCount = 0;
         this.strokeStart = false;
         this.hasPointer = false;
+        this.timer = 0;
         this.chr = chr;
         this.userPoints = [];
         this.pathPoints = [];
@@ -311,16 +312,16 @@ class Quiz {
         const { top, left } = this.element.getBoundingClientRect();
         const ratioX = this.element.width.baseVal.value / this.element.viewBox.baseVal.width;
         const ratioY = this.element.height.baseVal.value / this.element.viewBox.baseVal.height;
-        const x = Math.round((event.clientX - left) * 100 / ratioX) / 100;
-        const y = Math.round((event.clientY - top) * 100 / ratioY) / 100;
+        const x = Math.round(((event.clientX - left) * 100) / ratioX) / 100;
+        const y = Math.round(((event.clientY - top) * 100) / ratioY) / 100;
         return { x, y };
     }
     getTouchPosition(event) {
         const { top, left } = this.element.getBoundingClientRect();
         const ratioX = this.element.width.baseVal.value / this.element.viewBox.baseVal.width;
         const ratioY = this.element.height.baseVal.value / this.element.viewBox.baseVal.height;
-        const x = Math.round((event.touches[0].clientX - left) * 100 / ratioX) / 100;
-        const y = Math.round((event.touches[0].clientY - top) * 100 / ratioX) / 100;
+        const x = Math.round(((event.touches[0].clientX - left) * 100) / ratioX) / 100;
+        const y = Math.round(((event.touches[0].clientY - top) * 100) / ratioX) / 100;
         return { x, y };
     }
     getPointerPosition(event) {
@@ -385,20 +386,21 @@ class Quiz {
             return false;
         //距離が範囲内にあるかどうか
         const withinDistThresh = Point.getAverageDistance(this.userPoints, this.pathPoints) <= averageDistanceThreshold;
-        const ad = Point.getAverageDistance(this.userPoints, this.pathPoints);
+        //   const ad = Point.getAverageDistance(this.userPoints, this.pathPoints);
         //startAndEndMatch
         const startAndEndMatch = Point.distance(this.userPoints[0], this.pathPoints[0]) <= startAndEndThreshold &&
             Point.distance(this.userPoints[this.userPoints.length - 1], this.pathPoints[this.pathPoints.length - 1]) <= startAndEndThreshold;
-        const se = Point.distance(this.userPoints[0], this.pathPoints[0]) <= startAndEndThreshold &&
-            Point.distance(this.userPoints[this.userPoints.length - 1], this.pathPoints[this.pathPoints.length - 1]);
+        //  const se =
+        //     Point.distance(this.userPoints[0], this.pathPoints[0]) <= startAndEndThreshold &&
+        //    Point.distance(this.userPoints[this.userPoints.length - 1], this.pathPoints[this.pathPoints.length - 1]);
         //
         const shapeMatch = this.shapeFit(this.userPoints, this.pathPoints) <= frechetThreshold;
-        const sm = this.shapeFit(this.userPoints, this.pathPoints);
+        //  const sm = this.shapeFit(this.userPoints, this.pathPoints);
         const directionMatch = this.avgSimilaryty(this.userPoints, this.pathPoints) > cosingSimilarityThreshold;
-        const dm = this.avgSimilaryty(this.userPoints, this.pathPoints);
+        //  const dm = this.avgSimilaryty(this.userPoints, this.pathPoints);
         const lengthMatch = (Point.pointsLength(this.userPoints) + 25) / (Point.pointsLength(this.pathPoints) + 25) > minLengthThreshold;
-        const lm = (Point.pointsLength(this.userPoints) + 25) / (Point.pointsLength(this.pathPoints) + 25);
-        console.log({ ad, se, sm, dm, lm });
+        //  const lm = (Point.pointsLength(this.userPoints) + 25) / (Point.pointsLength(this.pathPoints) + 25);
+        //  console.log({ad,se,sm,dm,lm});
         return withinDistThresh && startAndEndMatch && shapeMatch && directionMatch && lengthMatch;
     }
     shapeFit(curve1, curve2) {
@@ -421,8 +423,100 @@ class Quiz {
             const strokeSimilarities = strokeVectors.map((strokeVector) => Point.cosineSimilarity(strokeVector, edgeVector));
             return Math.max(...strokeSimilarities);
         });
-        const avgSimilarity = similarities.reduce((acc, val) => (acc + val), 0) / similarities.length;
+        const avgSimilarity = similarities.reduce((acc, val) => acc + val, 0) / similarities.length;
         return avgSimilarity;
+    }
+    // 単一のストロークのアニメーション準備と開始
+    AnimatePath(path) {
+    }
+    // ストローク1本を描くアニメーション本体
+    doAnimation(path) { }
+}
+// 漢字の筆順アニメーションを制御するクラス
+class KanjiAnimator {
+    constructor(time = 20) {
+        this.time = time;
+        this.running = false;
+        this.count = 0;
+        this.pathLength = 0;
+        this.interval = 0;
+        this.timer = 0;
+    }
+    // アニメーションを開始する
+    play(svg) {
+        if (this.running)
+            return;
+        this.running = true;
+        // 既にタイマーがあればクリア
+        if (this.timer !== 0) {
+            clearInterval(this.timer);
+        }
+        console.log("アニメーション開始");
+        // SVG内のストロークと順番表示を取得
+        this.paths = svg.querySelectorAll("path");
+        this.texts = svg.querySelectorAll("text");
+        // カウンタ初期化・非表示化
+        this.count = 0;
+        this.hideAll();
+        // 最初のストロークから開始
+        const path = this.paths[this.count];
+        const text = this.texts[this.count];
+        this.AnimatePath(path, text);
+        this.running = false;
+    }
+    // アニメーションを強制的にリセットする
+    reset() {
+        this.running = false;
+        console.log("アニメーションリセット");
+    }
+    // 単一のストロークのアニメーション準備と開始
+    AnimatePath(path, text) {
+        this.pathLength = path.getTotalLength();
+        path.style.display = "block";
+        if (typeof text !== "undefined") {
+            text.style.display = "block";
+        }
+        // ストローク描画用の下準備
+        path.style.transition = "none";
+        path.style.strokeDasharray = `${this.pathLength} ${this.pathLength}`;
+        path.style.strokeDashoffset = this.pathLength.toString();
+        path.getBoundingClientRect(); // レンダリング強制
+        // アニメーションの速度設定
+        this.interval = this.time / this.pathLength;
+        // アニメーション実行
+        this.DoAnimation(path);
+    }
+    // ストローク1本を描くアニメーション本体
+    DoAnimation(path) {
+        // タイマーで次のフレームを設定
+        this.timer = setTimeout(() => {
+            this.DoAnimation(path);
+        }, this.time);
+        // 描画を少しずつ進める
+        path.style.strokeDashoffset = this.pathLength.toString();
+        this.pathLength--;
+        // ストロークが描き終わったら次へ
+        if (this.pathLength < 0) {
+            clearInterval(this.timer); // 現在のタイマー停止
+            this.time = 0;
+            this.count++;
+            if (this.count < this.paths.length) {
+                const newPath = this.paths[this.count];
+                const newText = this.texts[this.count];
+                this.AnimatePath(newPath, newText); // 次のストロークへ
+            }
+        }
+    }
+    // 全てのストロークと順番表示を非表示にする
+    hideAll() {
+        for (const path of this.paths) {
+            path.style.display = "none";
+        }
+        for (const text of this.texts) {
+            if (typeof text !== "undefined") {
+                text.style.display = "none";
+            }
+        }
     }
 }
 export {};
