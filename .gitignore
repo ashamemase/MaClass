@@ -3,6 +3,10 @@ vendor/
 composer.json
 composer.lock
 jquerypractice/
-kanjivg/
 kanji/
 pages/auth/
+node_modules/
+Maclass.code-workspace
+package-lock.json
+package.json
+tsconfig.json

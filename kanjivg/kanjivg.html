@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KanjiVG.test</title>
+  <script type="text/javascript" src="kanjivg.js"></script>
+  <script type="text/javascript" src="kanjiviwer.js"></script>
+  <script type="text/javascript" src="KanjivgAnimate.js"></script>
+  <script>
+    jQuery(document).ready(function () {
+        urlVars = getUrlVars();
+        var kanji = urlVars["kanji"];
+        if (kanji == null) {
+            kanji = jQuery('#kanji').val();
+        } else {
+            jQuery('#kanji').val(kanji);
+        }
+        var file = urlVars["file"];
+        var cg = getShowGroups();
+        if (cg) {
+            jQuery('#colorGroups').prop('checked', true);
+        }
+        var rad = getShowRadicals();
+        if (rad) {
+            jQuery('#radicals').prop('checked', true);
+        }
+        var noso = getNoShowSO();
+        if (noso) {
+            // This is on by default.
+            jQuery('#displayOrders').prop('checked', false);
+        }
+        KanjiViewer.initialize(
+            "kanjiViewer",
+            jQuery('#displayOrders:checked').val(),
+            jQuery('#radicals:checked').val(),
+            jQuery('#colorGroups:checked').val(),
+            kanji,
+            file,
+            urlVars
+        );
+        jQuery('#kanjiViewerParams').submit(runKanjiViewer);
+    });
+    
+    function runKanjiViewer() {
+        KanjiViewer.setStrokeOrdersVisible(jQuery('#displayOrders:checked').val());
+        KanjiViewer.setRadicals(jQuery('#radicals:checked').val());
+        KanjiViewer.setColorGroups(jQuery('#colorGroups:checked').val());
+        KanjiViewer.setKanji(jQuery('#kanji').val());
+        KanjiViewer.refreshKanji();
+        return false;
+    }
+    
+    </script>
+
+</head>
+<body>
+
+  <main>
+    <div class="page-header">
+      <h1>KanjiVG Viewer</h1>
+    </div>
+    
+    <form id="kanjiViewerParams" action="#" class="form-horizontal">
+      <fieldset>
+        <div id="viewer-controls">
+          <div id="kanji-etc">
+      <div>
+              <label id="kanji-label" for="kanji">Kanji:</label>
+              <input class="viewer-input" type="text" value="" id="kanji" placeholder="線" onchange="changeBox();">
+            </div>
+          </div>
+          <div id="kanji-options">
+      <p>
+              <input type="checkbox" name="displayOrders" id="displayOrders" checked="on" onchange="changeNoShowSO(); changeBox();">
+              <label for="displayOrders">Display stroke order</label>
+      </p>
+      <p>
+              <input type="checkbox" name="radicals" id="radicals" onchange="changeRadicals(); changeBox();">
+              <label for="radicals">Show the radicals</label>
+      </p>
+      <p>
+              <input type="checkbox" name="colorGroups" id="colorGroups" onchange="changeColorGroups(); changeBox();">
+              <label for="colorGroups">Show the component groups</label>
+      </p>
+          </div>
+          <div id="kanji-actions">
+            <input type="submit" value="Draw">&nbsp;
+      <button id="animate" class="kanjivg-button" data-kanjivg-target="#kanji-svg">Animate</button>
+      <button id="random" class="kanjivg-button" onclick="gotoRandom();">Random</button>
+          </div>
+        </div>
+      </fieldset>
+    </form>
+    <div id="kanji-visuals">
+      <div id="kanji-image"></div>
+      <div id="sub-images">
+        <div id="radical-images">
+        </div>
+        <div id="group-images">
+        </div>
+      </div>
+    </div>
+  </main>
+
+</body>
+  
+</html>
