@@ -1,0 +1,73 @@
+.search-form header {
+    padding: 1em;
+    background: #f0f0f0;
+    text-align: center;
+}
+
+.search-form form {
+    display: inline-flex;
+    gap: 0.5em;
+}
+
+.search-form input[type="text"] {
+    font-size: 1.2em;
+    padding: 0.3em;
+}
+
+.search-form button {
+    font-size: 1.2em;
+    padding: 0.3em 1em;
+}
+
+.kanji-parts--container {
+    display: grid;
+    width: min-content;
+}
+
+.kanji-parts--svg {
+    grid-row: 1/2;
+    width: min-content;
+}
+
+.kanji-parts--link {
+    grid-row: 2/3;
+    text-align: center;
+}
+
+.kanji-parts--link>* {
+    text-decoration: none;
+}
+
+.radical-stroke {
+    stroke: #c586d7;
+    stroke-width: 4px;
+}
+
+.phon-stroke {
+    stroke: #6163e0;
+}
+
+.emphasis-stroke {
+    stroke: #ff0000;
+}
+
+@media screen and (min-width:600px) {
+    #kanji-output {
+        display: grid;
+    }
+
+    #kanji-output__img--stroke {
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+    }
+
+    #kanji-output__practice {
+        grid-column: 2/3;
+        grid-row: 1/2;
+    }
+
+    #kanji-output__img--parts {
+        grid-column: 1 / 3;
+        grid-row: 2 / 3;
+    }
+}

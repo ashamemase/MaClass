@@ -10,7 +10,7 @@ body {
 /* ヘッダーの設定 */
 header {
     background-color: #333; /* 背景色 */
-    color: #fff; /* テキストの色 */
+    color: #000; /* テキストの色 */
     padding: 10px 0; /* パディング（内側の余白） */
     text-align: center; /* テキストを中央揃えにする */
 }
@@ -23,7 +23,7 @@ main {
 /* フッターの設定 */
 footer {
     background-color: #333; /* 背景色 */
-    color: #fff; /* テキストの色 */
+    color: #000; /* テキストの色 */
     text-align: center; /* テキストを中央揃えにする */
     padding: 10px 0; /* パディング（内側の余白） */
     position: fixed; /* フッターを画面下部に固定 */
